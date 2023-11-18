@@ -1,0 +1,1583 @@
+[ERROR]: Aug-10-2022 16:43:51: 	Auth header is missing
+[ERROR]: Aug-10-2022 17:03:56: 	Unexpected token } in JSON at position 187
+[ERROR]: Aug-10-2022 17:04:01: 	User not found
+[ERROR]: Aug-10-2022 17:07:45: 	Phone number already exists
+[ERROR]: Aug-10-2022 17:10:18: 	newUser is not defined
+[ERROR]: Aug-10-2022 17:11:11: 	Auth header is missing
+[ERROR]: Aug-10-2022 17:12:35: 	Auth header is missing
+[ERROR]: Aug-12-2022 16:25:15: 	User not found
+[ERROR]: Aug-12-2022 16:30:05: 	User not found
+[ERROR]: Aug-15-2022 18:17:26: 	Auth header is missing
+[ERROR]: Aug-15-2022 18:17:37: 	Auth header is missing
+[ERROR]: Aug-15-2022 18:18:58: 	Unknown column 'admin_uid' in 'field list'
+[ERROR]: Aug-15-2022 18:19:50: 	Unknown column 'admin_uid' in 'field list'
+[ERROR]: Aug-16-2022 17:29:59: 	NOT_FOUND
+[ERROR]: Aug-16-2022 17:33:41: 	NOT_FOUND
+[ERROR]: Aug-16-2022 17:35:04: 	bcrypt is not defined
+[ERROR]: Aug-16-2022 17:35:43: 	notNull Violation: admin.username cannot be null
+[ERROR]: Aug-16-2022 17:36:18: 	createJwtToken is not defined
+[ERROR]: Aug-16-2022 17:37:47: 	PHONE_ALREADY_EXISTS_ERR is not defined
+[ERROR]: Aug-16-2022 17:38:43: 	Phone number already exists
+[ERROR]: Aug-16-2022 17:41:46: 	invalid token
+[ERROR]: Aug-16-2022 17:41:50: 	invalid token
+[ERROR]: Aug-16-2022 17:42:47: 	invalid token
+[ERROR]: Aug-16-2022 17:49:19: 	Invalid token
+[ERROR]: Aug-16-2022 17:56:00: 	Invalid token
+[ERROR]: Aug-16-2022 17:57:09: 	Invalid token
+[ERROR]: Aug-16-2022 17:57:11: 	Invalid token
+[ERROR]: Aug-16-2022 17:57:52: 	Invalid token
+[ERROR]: Aug-16-2022 17:58:05: 	Invalid token
+[ERROR]: Aug-16-2022 17:58:21: 	Invalid token
+[ERROR]: Aug-16-2022 17:58:52: 	Invalid token
+[ERROR]: Aug-16-2022 18:01:55: 	Invalid token
+[ERROR]: Aug-16-2022 18:03:50: 	Invalid token
+[ERROR]: Aug-16-2022 18:05:43: 	Invalid token
+[ERROR]: Aug-16-2022 18:05:44: 	Invalid token
+[ERROR]: Aug-17-2022 12:45:30: 	Passphrase required for encrypted key
+[ERROR]: Aug-17-2022 13:30:26: 	Invalid token
+[ERROR]: Aug-17-2022 14:36:51: 	Invalid token
+[ERROR]: Aug-17-2022 14:36:53: 	Invalid token
+[ERROR]: Aug-17-2022 14:38:36: 	User.findById is not a function
+[ERROR]: Aug-17-2022 14:40:53: 	User not found
+[ERROR]: Aug-17-2022 14:43:21: 	User not found
+[ERROR]: Aug-17-2022 14:43:38: 	User not found
+[ERROR]: Aug-17-2022 14:45:27: 	User not found
+[ERROR]: Aug-17-2022 14:45:53: 	User not found
+[ERROR]: Aug-17-2022 14:45:54: 	User not found
+[ERROR]: Aug-17-2022 14:46:07: 	NOT_FOUND
+[ERROR]: Aug-17-2022 14:46:08: 	NOT_FOUND
+[ERROR]: Aug-17-2022 14:46:24: 	NOT_FOUND
+[ERROR]: Aug-17-2022 14:47:18: 	NOT_FOUND
+[ERROR]: Aug-17-2022 14:47:19: 	NOT_FOUND
+[ERROR]: Aug-17-2022 15:07:27: 	House images of >4 are required
+[ERROR]: Aug-17-2022 15:08:27: 	ENOENT: no such file or directory, open 'houses/1660738107174+RealtorImage+apartment.jpeg'
+[ERROR]: Aug-17-2022 15:09:51: 	ENOENT: no such file or directory, open 'houses/1660738191596+RealtorImage+apartment.jpeg'
+[ERROR]: Aug-17-2022 15:10:16: 	ENOENT: no such file or directory, open 'houses/1660738216120+RealtorImage+apartment.jpeg'
+[ERROR]: Aug-17-2022 15:10:57: 	ENOENT: no such file or directory, open 'houses/1660738257842+RealtorImage+apartment.jpeg'
+[ERROR]: Aug-17-2022 15:11:09: 	index is not defined
+[ERROR]: Aug-17-2022 15:14:58: 	User not found
+[ERROR]: Aug-17-2022 15:21:59: 	Auth header is missing
+[ERROR]: Aug-17-2022 15:23:23: 	Auth header is missing
+[ERROR]: Aug-17-2022 15:23:27: 	Auth header is missing
+[ERROR]: Aug-17-2022 15:23:28: 	Auth header is missing
+[ERROR]: Aug-17-2022 15:23:28: 	Auth header is missing
+[ERROR]: Aug-17-2022 15:27:27: 	House images of >4 are required
+[ERROR]: Aug-17-2022 15:27:36: 	House images of >4 are required
+[ERROR]: Aug-17-2022 15:27:42: 	House images of >4 are required
+[ERROR]: Aug-17-2022 15:27:53: 	Incorrect integer value: '' for column 'floor_number' at row 1
+[ERROR]: Aug-17-2022 15:47:45: 	User not found
+[ERROR]: Aug-17-2022 16:09:33: 	User not found
+[ERROR]: Aug-17-2022 16:22:34: 	Auth header is missing
+[ERROR]: Aug-17-2022 16:23:36: 	Auth header is missing
+[ERROR]: Aug-17-2022 16:26:28: 	Auth header is missing
+[ERROR]: Aug-17-2022 16:26:35: 	Auth header is missing
+[ERROR]: Aug-17-2022 16:26:42: 	Auth header is missing
+[ERROR]: Aug-17-2022 16:27:10: 	Auth header is missing
+[ERROR]: Aug-17-2022 16:27:37: 	Auth header is missing
+[ERROR]: Aug-17-2022 16:28:18: 	jwt malformed
+[ERROR]: Aug-17-2022 16:28:22: 	jwt malformed
+[ERROR]: Aug-17-2022 16:28:30: 	jwt malformed
+[ERROR]: Aug-17-2022 16:28:50: 	jwt malformed
+[ERROR]: Aug-17-2022 16:28:53: 	jwt malformed
+[ERROR]: Aug-17-2022 16:28:58: 	jwt malformed
+[ERROR]: Aug-17-2022 16:29:58: 	jwt malformed
+[ERROR]: Aug-17-2022 16:30:30: 	jwt malformed
+[ERROR]: Aug-17-2022 16:43:45: 	jwt malformed
+[ERROR]: Aug-17-2022 16:43:51: 	jwt malformed
+[ERROR]: Aug-17-2022 16:44:52: 	jwt malformed
+[ERROR]: Aug-17-2022 16:45:12: 	jwt malformed
+[ERROR]: Aug-17-2022 16:51:56: 	jwt malformed
+[ERROR]: Aug-17-2022 17:17:39: 	jwt malformed
+[ERROR]: Aug-17-2022 17:17:50: 	jwt malformed
+[ERROR]: Aug-17-2022 17:22:56: 	Auth header is missing
+[ERROR]: Aug-17-2022 17:23:02: 	Auth header is missing
+[ERROR]: Aug-17-2022 17:23:11: 	Auth header is missing
+[ERROR]: Aug-17-2022 17:23:19: 	Auth header is missing
+[ERROR]: Aug-17-2022 17:23:25: 	Auth header is missing
+[ERROR]: Aug-17-2022 17:23:47: 	Auth header is missing
+[ERROR]: Aug-17-2022 17:54:51: 	Auth header is missing
+[ERROR]: Aug-17-2022 17:55:52: 	Auth header is missing
+[ERROR]: Aug-17-2022 18:27:01: 	NOT_FOUND
+[ERROR]: Aug-17-2022 18:27:06: 	NOT_FOUND
+[ERROR]: Aug-17-2022 18:27:18: 	HouseImage is not defined
+[ERROR]: Aug-17-2022 18:27:35: 	HouseImage is not defined
+[ERROR]: Aug-17-2022 18:27:36: 	HouseImage is not defined
+[ERROR]: Aug-17-2022 18:27:58: 	HouseImage.findMany is not a function
+[ERROR]: Aug-17-2022 18:29:31: 	HouseImages is not defined
+[ERROR]: Aug-17-2022 18:36:27: 	Auth header is missing
+[ERROR]: Aug-17-2022 18:36:34: 	Auth header is missing
+[ERROR]: Aug-17-2022 18:36:59: 	User not found
+[ERROR]: Aug-17-2022 18:37:01: 	User not found
+[ERROR]: Aug-17-2022 18:37:42: 	Auth header is missing
+[ERROR]: Aug-20-2022 13:15:03: 	User not found
+[ERROR]: Aug-20-2022 13:15:07: 	User not found
+[ERROR]: Aug-20-2022 13:15:55: 	User not found
+[ERROR]: Aug-20-2022 13:16:28: 	User not found
+[ERROR]: Aug-20-2022 13:16:56: 	User not found
+[ERROR]: Aug-20-2022 13:21:43: 	Unexpected field
+[ERROR]: Aug-20-2022 13:23:50: 	Unexpected field
+[ERROR]: Aug-20-2022 13:25:53: 	Unexpected field
+[ERROR]: Aug-20-2022 13:26:21: 	Unexpected field
+[ERROR]: Aug-20-2022 13:30:12: 	Unexpected field
+[ERROR]: Aug-20-2022 13:30:48: 	Unexpected field
+[ERROR]: Aug-20-2022 13:36:02: 	Unexpected field
+[ERROR]: Aug-20-2022 13:36:03: 	Unexpected field
+[ERROR]: Aug-20-2022 13:50:44: 	notNull Violation: house.coverImage cannot be null
+[ERROR]: Aug-20-2022 13:51:38: 	notNull Violation: house.coverImage cannot be null
+[ERROR]: Aug-20-2022 13:52:07: 	notNull Violation: house.coverImage cannot be null
+[ERROR]: Aug-20-2022 13:52:24: 	notNull Violation: house.coverImage cannot be null
+[ERROR]: Aug-20-2022 13:53:02: 	notNull Violation: house.coverImage cannot be null
+[ERROR]: Aug-20-2022 13:56:54: 	Auth header is missing
+[ERROR]: Aug-20-2022 13:56:55: 	Auth header is missing
+[ERROR]: Aug-20-2022 13:56:55: 	Auth header is missing
+[ERROR]: Aug-20-2022 13:56:56: 	Auth header is missing
+[ERROR]: Aug-20-2022 13:56:57: 	Auth header is missing
+[ERROR]: Aug-20-2022 13:57:10: 	Auth header is missing
+[ERROR]: Aug-20-2022 13:57:10: 	Auth header is missing
+[ERROR]: Aug-20-2022 14:00:51: 	Auth header is missing
+[ERROR]: Aug-20-2022 14:00:51: 	Auth header is missing
+[ERROR]: Aug-20-2022 14:01:05: 	Auth header is missing
+[ERROR]: Aug-20-2022 14:02:02: 	Auth header is missing
+[ERROR]: Aug-20-2022 14:02:04: 	Auth header is missing
+[ERROR]: Aug-20-2022 14:02:37: 	User not found
+[ERROR]: Aug-20-2022 14:02:38: 	User not found
+[ERROR]: Aug-20-2022 14:03:58: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:11:39: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:11:41: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:11:43: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:15:09: 	Cannot read properties of undefined (reading 'id')
+[ERROR]: Aug-20-2022 14:15:59: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:16:06: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:16:06: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:18:31: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:18:35: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:18:38: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:18:41: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:23:06: 	ENOENT: no such file or directory, open 'houses_images/1660994586704+RealtorImage+apartment2.jpeg'
+[ERROR]: Aug-20-2022 14:23:25: 	ENOENT: no such file or directory, open '/static_assets/houses_images/1660994605703+RealtorImage+apartment2.jpeg'
+[ERROR]: Aug-20-2022 14:24:09: 	ENOENT: no such file or directory, open '/static_assets/houses_images/1660994649290+RealtorImage+apartment2.jpeg'
+[ERROR]: Aug-20-2022 14:26:04: 	Cannot read properties of undefined (reading 'id')
+[ERROR]: Aug-20-2022 14:26:40: 	User not found
+[ERROR]: Aug-20-2022 14:27:59: 	Auth header is missing
+[ERROR]: Aug-20-2022 14:28:55: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:29:22: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:29:32: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:49:44: 	Auth header is missing
+[ERROR]: Aug-20-2022 14:49:46: 	Auth header is missing
+[ERROR]: Aug-20-2022 14:50:22: 	Auth header is missing
+[ERROR]: Aug-20-2022 14:51:33: 	Auth header is missing
+[ERROR]: Aug-20-2022 14:51:48: 	Auth header is missing
+[ERROR]: Aug-20-2022 14:52:11: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:52:12: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:53:01: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:53:03: 	NOT_FOUND
+[ERROR]: Aug-20-2022 14:54:56: 	jwt malformed
+[ERROR]: Aug-20-2022 14:54:57: 	jwt malformed
+[ERROR]: Aug-20-2022 14:55:12: 	NOT_FOUND
+[ERROR]: Aug-20-2022 15:04:59: 	Phone number already exists
+[ERROR]: Aug-20-2022 15:05:03: 	ENOENT: no such file or directory, open 'houses_images/1660997103726+RealtorImage+apartment2.png'
+[ERROR]: Aug-20-2022 15:05:26: 	ENOENT: no such file or directory, open '/houses_images/1660997126120+RealtorImage+apartment2.png'
+[ERROR]: Aug-20-2022 15:05:46: 	ENOENT: no such file or directory, open 'houses_images/1660997146856+RealtorImage+apartment2.png'
+[ERROR]: Aug-20-2022 15:05:49: 	ENOENT: no such file or directory, open 'houses_images/1660997149103+RealtorImage+apartment2.png'
+[ERROR]: Aug-20-2022 15:07:12: 	ENOENT: no such file or directory, open 'houses_images/1660997232958+RealtorImage+apartment2.png'
+[ERROR]: Aug-20-2022 15:07:14: 	ENOENT: no such file or directory, open 'houses_images/1660997234560+RealtorImage+apartment2.png'
+[ERROR]: Aug-20-2022 15:08:12: 	ENOENT: no such file or directory, open '/static_assets/houses_images/1660997292954+RealtorImage+apartment2.png'
+[ERROR]: Aug-20-2022 15:08:15: 	ENOENT: no such file or directory, open '/static_assets/houses_images/1660997295068+RealtorImage+apartment2.png'
+[ERROR]: Aug-20-2022 15:21:31: 	ENOENT: no such file or directory, open 'houses_images/1660998091651+RealtorImage+apartment2.png'
+[ERROR]: Aug-20-2022 15:21:42: 	ENOENT: no such file or directory, open '/houses_images/1660998102684+RealtorImage+apartment2.png'
+[ERROR]: Aug-20-2022 15:21:50: 	ENOENT: no such file or directory, open 'houses_images/1660998110701+RealtorImage+condominium.png'
+[ERROR]: Aug-20-2022 15:21:52: 	ENOENT: no such file or directory, open 'houses_images/1660998112047+RealtorImage+apartment2.png'
+[ERROR]: Aug-20-2022 15:22:09: 	ENOENT: no such file or directory, open 'houses_images/1660998129466+RealtorImage+apartment2.png'
+[ERROR]: Aug-20-2022 15:22:29: 	ENOENT: no such file or directory, open 'houses_images/1660998149693+RealtorImage+apartment2.png'
+[ERROR]: Aug-20-2022 15:26:11: 	NOT_FOUND
+[ERROR]: Aug-20-2022 15:26:29: 	NOT_FOUND
+[ERROR]: Aug-20-2022 15:26:41: 	NOT_FOUND
+[ERROR]: Aug-20-2022 15:26:42: 	NOT_FOUND
+[ERROR]: Aug-20-2022 15:27:28: 	NOT_FOUND
+[ERROR]: Aug-20-2022 15:35:02: 	NOT_FOUND
+[ERROR]: Aug-20-2022 15:35:37: 	NOT_FOUND
+[ERROR]: Aug-20-2022 15:35:47: 	NOT_FOUND
+[ERROR]: Aug-20-2022 15:37:42: 	ENOENT: no such file or directory, open '/static_assets/houses_images/1660999062016+RealtorImage+apartment2.png'
+[ERROR]: Aug-20-2022 15:38:45: 	ENOENT: no such file or directory, open '/static_assets/houses_images/1660999125156+RealtorImage+apartment2.png'
+[ERROR]: Aug-21-2022 11:47:19: 	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1', 2' at line 1
+[ERROR]: Aug-21-2022 11:52:10: 	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1', 2' at line 1
+[ERROR]: Aug-21-2022 11:52:35: 	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1', 1' at line 1
+[ERROR]: Aug-21-2022 11:53:10: 	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1', 1' at line 1
+[ERROR]: Aug-21-2022 11:58:47: 	Unknown column 'house.DESC' in 'order clause'
+[ERROR]: Aug-21-2022 12:06:51: 	Unknown column 'house.createAt' in 'order clause'
+[ERROR]: Aug-21-2022 14:50:44: 	Auth header is missing
+[ERROR]: Aug-21-2022 14:52:21: 	Auth header is missing
+[ERROR]: Aug-21-2022 14:55:53: 	Auth header is missing
+[ERROR]: Aug-21-2022 14:56:41: 	HouseImage.findMany is not a function
+[ERROR]: Aug-21-2022 14:57:00: 	WHERE parameter "houseId" has invalid "undefined" value
+[ERROR]: Aug-21-2022 17:05:59: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:06:52: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:06:53: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:06:54: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:07: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:07: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:07: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:07: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:07: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:07: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:08: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:08: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:08: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:09: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:09: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:09: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:10: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:10: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:35: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:07:58: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:08:38: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:13:37: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:13:37: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:14:28: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:14:44: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:14:44: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:14:46: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:14:47: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:14:48: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:14:49: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:15:14: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:15:38: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:15:46: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:16:17: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:17:01: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:20:52: 	res.json(...).message is not a function
+[ERROR]: Aug-21-2022 17:34:15: 	offset is not defined
+[ERROR]: Aug-21-2022 17:51:57: 	res.json(...).message is not a function
+[ERROR]: Aug-24-2022 16:38:02: 	Sequelize is not defined
+[ERROR]: Aug-24-2022 16:38:21: 	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE '%addis%' OR `house`.`subcity` ILIKE '%addis%' OR `house`.`city` ILIKE '%a' at line 1
+[ERROR]: Aug-24-2022 16:38:42: 	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE '%addis%' OR `house`.`subcity` ILIKE '%addis%' OR `house`.`city` ILIKE '%a' at line 1
+[ERROR]: Aug-24-2022 16:52:48: 	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@> '%lemi%'))' at line 1
+[ERROR]: Aug-24-2022 16:53:01: 	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@> 'lemi'))' at line 1
+[ERROR]: Aug-24-2022 16:53:03: 	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@> 'lemi'))' at line 1
+[ERROR]: Aug-24-2022 16:56:54: 	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '~* 'addis|ababa|lemi'))' at line 1
+[ERROR]: Aug-24-2022 16:57:14: 	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '~* '^addis|ababa|lemi'))' at line 1
+[ERROR]: Aug-24-2022 17:01:57: 	Invalid value { [Symbol(substring)]: [ 'addis', 'ababa', 'lemi' ] }
+[ERROR]: Aug-25-2022 09:13:06: 	value.map is not a function
+[ERROR]: Aug-25-2022 09:13:29: 	value.map is not a function
+[ERROR]: Aug-25-2022 10:45:21: 	Assignment to constant variable.
+[ERROR]: Aug-25-2022 11:29:39: 	Invalid value { [Symbol(or)]: [ '%addis%', '%ababa%', '%lemi%' ] }
+[ERROR]: Aug-25-2022 11:29:53: 	Invalid value { [Symbol(in)]: [ '%addis%', '%ababa%', '%lemi%' ] }
+[ERROR]: Aug-25-2022 11:30:03: 	Invalid value { [Symbol(in)]: [ 'addis', 'ababa', 'lemi' ] }
+[ERROR]: Aug-25-2022 11:30:24: 	Invalid value { [Symbol(in)]: [ 'addis', 'ababa', 'lemi' ] }
+[ERROR]: Aug-25-2022 11:30:25: 	Invalid value { [Symbol(in)]: [ 'addis', 'ababa', 'lemi' ] }
+[ERROR]: Aug-25-2022 11:37:48: 	searchresults is not defined
+[ERROR]: Aug-25-2022 11:39:07: 	searchVals is not defined
+[ERROR]: Aug-25-2022 11:39:18: 	x is not defined
+[ERROR]: Aug-25-2022 11:42:18: 	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE 'addis')' at line 1
+[ERROR]: Aug-25-2022 11:42:45: 	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE '%addis%')' at line 1
+[ERROR]: Aug-25-2022 11:42:46: 	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE '%addis%')' at line 1
+[ERROR]: Aug-25-2022 11:42:46: 	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE '%addis%')' at line 1
+[ERROR]: Aug-25-2022 18:55:01: 	WHERE parameter "subcity" has invalid "undefined" value
+[ERROR]: Aug-25-2022 18:55:08: 	WHERE parameter "subcity" has invalid "undefined" value
+[ERROR]: Aug-25-2022 18:57:31: 	WHERE parameter "subcity" has invalid "undefined" value
+[ERROR]: Aug-25-2022 18:57:31: 	WHERE parameter "subcity" has invalid "undefined" value
+[ERROR]: Aug-25-2022 19:19:02: 	searchResults.pushValues is not a function
+[ERROR]: Aug-25-2022 19:19:10: 	searchResults.pushValues is not a function
+[ERROR]: Aug-27-2022 17:18:00: 	Unexpected token } in JSON at position 56
+[ERROR]: Aug-27-2022 17:18:01: 	Auth header is missing
+[ERROR]: Aug-27-2022 18:44:06: 	NOT_FOUND
+[ERROR]: Aug-27-2022 18:49:11: 	NOT_FOUND
+[ERROR]: Aug-27-2022 18:50:22: 	NOT_FOUND
+[ERROR]: Aug-27-2022 18:50:45: 	NOT_FOUND
+[ERROR]: Aug-27-2022 18:53:54: 	INCORRECT_PASSWORD_ERR is not defined
+[ERROR]: Aug-27-2022 18:54:15: 	Wrong password
+[ERROR]: Aug-27-2022 18:54:54: 	Wrong password
+[ERROR]: Aug-27-2022 19:04:18: 	NOT_FOUND
+[ERROR]: Aug-27-2022 19:04:45: 	Illegal arguments: undefined, string
+[ERROR]: Aug-27-2022 19:05:49: 	Illegal arguments: undefined, string
+[ERROR]: Aug-27-2022 19:14:51: 	Illegal arguments: undefined, string
+[ERROR]: Aug-27-2022 19:15:48: 	Illegal arguments: undefined, string
+[ERROR]: Aug-27-2022 19:17:01: 	Illegal arguments: undefined, string
+[ERROR]: Aug-27-2022 19:20:49: 	Wrong password
+[ERROR]: Aug-27-2022 20:42:49: 	createJwtToken is not defined
+[ERROR]: Aug-27-2022 20:43:13: 	newUser is not defined
+[ERROR]: Aug-27-2022 20:43:17: 	newUser is not defined
+[ERROR]: Aug-30-2022 17:17:08: 	Invalid token
+[ERROR]: Aug-30-2022 17:17:41: 	Invalid token
+[ERROR]: Aug-30-2022 17:19:00: 	Invalid token
+[ERROR]: Aug-30-2022 17:19:42: 	Invalid token
+[ERROR]: Aug-30-2022 18:43:55: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:44:02: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:44:28: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:44:30: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:44:56: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:44:57: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:46:15: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:46:15: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:46:23: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:46:24: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:46:50: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:46:51: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:47:43: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:47:44: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:47:52: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:47:53: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:49:14: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:49:30: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:49:41: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:49:42: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 18:51:36: 	ENOENT: no such file or directory, open 'houses_images/1661874696514+RealtorImage+residential.png'
+[ERROR]: Aug-30-2022 18:53:07: 	ENOENT: no such file or directory, open '/houses_images/1661874787508+RealtorImage+residential.png'
+[ERROR]: Aug-30-2022 18:53:29: 	ENOENT: no such file or directory, open 'houses_images/1661874809211+RealtorImage+residential.png'
+[ERROR]: Aug-30-2022 18:53:30: 	ENOENT: no such file or directory, open 'houses_images/1661874810060+RealtorImage+residential.png'
+[ERROR]: Aug-30-2022 18:53:45: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:13:11: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:14:27: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:14:52: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:14:54: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:15:18: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:15:26: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:16:00: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:16:27: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:16:37: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:16:57: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:18:34: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:19:31: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:19:32: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:19:33: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:19:34: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:20:17: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:20:40: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:20:42: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:21:12: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:21:26: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:21:27: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:21:46: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:21:48: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:21:49: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:21:57: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:21:58: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:21:59: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:25:25: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:25:55: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:26:31: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:26:53: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:27:09: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:27:14: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:27:51: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:42:41: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:42:45: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:42:51: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:43:34: 	Unknown column 'furnishing_status' in 'field list'
+[ERROR]: Aug-30-2022 19:44:33: 	Unknown column 'furnishing_status' in 'field list'
+[ERROR]: Aug-30-2022 19:44:37: 	Unknown column 'furnishing_status' in 'field list'
+[ERROR]: Aug-30-2022 19:44:55: 	Unknown column 'furnishing_status' in 'field list'
+[ERROR]: Aug-30-2022 19:44:56: 	Unknown column 'furnishing_status' in 'field list'
+[ERROR]: Aug-30-2022 19:45:34: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:45:40: 	User not found
+[ERROR]: Aug-30-2022 19:46:27: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:47:47: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:47:57: 	House images of >4 are required
+[ERROR]: Aug-30-2022 19:57:16: 	Auth header is missing
+[ERROR]: Aug-30-2022 19:57:39: 	ENOENT: no such file or directory, open '/static_assets/houses_images/1661878659922+realtorimage+apartment2.png'
+[ERROR]: Aug-30-2022 19:58:24: 	ENOENT: no such file or directory, open '/static_assets/houses_images/1661878704198+realtorimage+apartment2.png'
+[ERROR]: Aug-30-2022 20:01:11: 	House images of >4 are required
+[ERROR]: Aug-30-2022 20:01:33: 	House images of >4 are required
+[ERROR]: Aug-30-2022 20:01:44: 	House images of >4 are required
+[ERROR]: Aug-30-2022 20:02:15: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Aug-30-2022 19:37:34: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:43:56: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:44:04: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:44:51: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:46:01: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:47:40: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:48:47: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:52:23: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:52:29: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:53:07: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:53:12: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:53:53: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:54:02: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:54:25: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:54:49: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:54:51: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:54:56: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:55:02: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:56:51: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 19:57:48: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:04:41: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:05:58: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:06:01: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:07:02: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:07:08: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:07:16: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:07:34: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:10:23: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:10:28: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:10:32: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:13:09: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:13:13: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:13:15: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:13:16: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:13:16: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:13:16: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:13:17: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:14:18: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 20:26:07: 	User not found
+[ERROR]: Aug-30-2022 21:00:08: 	User not found
+[ERROR]: Aug-30-2022 21:00:12: 	User not found
+[ERROR]: Aug-30-2022 21:02:14: 	/?offset=1 NOT_FOUND
+[ERROR]: Aug-30-2022 21:02:14: 	/?offset=1 NOT_FOUND
+[ERROR]: Aug-30-2022 21:02:14: 	/ NOT_FOUND
+[ERROR]: Aug-30-2022 21:02:42: 	User not found
+[ERROR]: Aug-30-2022 21:02:42: 	User not found
+[ERROR]: Aug-30-2022 21:02:42: 	User not found
+[ERROR]: Sep-03-2022 08:57:48: 	Wrong password
+[ERROR]: Sep-03-2022 08:58:02: 	Wrong password
+[ERROR]: Sep-03-2022 08:58:28: 	Wrong password
+[ERROR]: Sep-03-2022 15:31:57: 	Wrong password
+[ERROR]: Sep-03-2022 16:19:59: 	Wrong password
+[ERROR]: Sep-03-2022 16:20:08: 	Wrong password
+[ERROR]: Sep-04-2022 04:16:27: 	Phone number already exists
+[ERROR]: Sep-04-2022 05:57:11: 	Phone number already exists
+[ERROR]: Sep-04-2022 07:13:00: 	Wrong password
+[ERROR]: Sep-04-2022 17:16:02: 	User not found
+[ERROR]: Sep-07-2022 08:50:12: 	User not found
+[ERROR]: Sep-17-2022 18:03:12: 	jwt expired
+[ERROR]: Sep-17-2022 18:03:12: 	jwt expired
+[ERROR]: Sep-17-2022 18:03:12: 	jwt expired
+[ERROR]: Sep-17-2022 18:15:57: 	jwt expired
+[ERROR]: Sep-22-2022 16:55:22: 	jwt expired
+[ERROR]: Sep-22-2022 16:55:22: 	jwt expired
+[ERROR]: Sep-22-2022 16:55:22: 	jwt expired
+[ERROR]: Sep-24-2022 08:27:17: 	jwt expired
+[ERROR]: Sep-24-2022 08:27:17: 	jwt expired
+[ERROR]: Sep-24-2022 08:27:17: 	jwt expired
+[ERROR]: Sep-24-2022 08:27:17: 	jwt expired
+[ERROR]: Sep-24-2022 08:27:17: 	jwt expired
+[ERROR]: Sep-24-2022 08:27:17: 	jwt expired
+[ERROR]: Sep-24-2022 08:27:32: 	jwt expired
+[ERROR]: Sep-24-2022 08:27:32: 	jwt expired
+[ERROR]: Sep-24-2022 08:27:32: 	jwt expired
+[ERROR]: Sep-24-2022 08:28:47: 	jwt expired
+[ERROR]: Sep-24-2022 08:28:47: 	jwt expired
+[ERROR]: Sep-24-2022 08:28:47: 	jwt expired
+[ERROR]: Sep-28-2022 14:00:35: 	jwt expired
+[ERROR]: Sep-28-2022 14:00:35: 	jwt expired
+[ERROR]: Sep-28-2022 14:00:35: 	jwt expired
+[ERROR]: Sep-28-2022 14:00:37: 	jwt expired
+[ERROR]: Sep-28-2022 14:00:52: 	jwt expired
+[ERROR]: Sep-28-2022 14:03:23: 	Phone number already exists
+[ERROR]: Sep-29-2022 13:30:06: 	jwt expired
+[ERROR]: Sep-29-2022 13:30:24: 	jwt expired
+[ERROR]: Sep-30-2022 21:05:42: 	jwt expired
+[ERROR]: Sep-30-2022 21:05:42: 	jwt expired
+[ERROR]: Sep-30-2022 21:05:42: 	jwt expired
+[ERROR]: Sep-30-2022 21:24:36: 	You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1', 20' at line 1
+[ERROR]: Sep-30-2022 21:24:48: 	You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''3', 20' at line 1
+[ERROR]: Sep-30-2022 21:25:57: 	You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1', 20' at line 1
+[ERROR]: Sep-30-2022 21:26:20: 	You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1', 20' at line 1
+[ERROR]: Sep-30-2022 21:26:23: 	You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1', 20' at line 1
+[ERROR]: Sep-30-2022 21:26:31: 	You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1', 20' at line 1
+[ERROR]: Sep-30-2022 21:35:04: 	You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''3', 20' at line 1
+[ERROR]: Oct-01-2022 08:03:52: 	jwt expired
+[ERROR]: Oct-01-2022 08:03:52: 	jwt expired
+[ERROR]: Oct-01-2022 08:03:52: 	jwt expired
+[ERROR]: Oct-01-2022 09:49:40: 	filteredHouses.isEmpty is not a function
+[ERROR]: Oct-01-2022 09:52:13: 	notNull Violation: requestedHouse.furnishingStatus cannot be null
+[ERROR]: Oct-01-2022 10:02:09: 	jwt expired
+[ERROR]: Oct-01-2022 10:02:12: 	jwt expired
+[ERROR]: Oct-01-2022 10:02:27: 	Unknown column 'requestedHouse.isActive' in 'where clause'
+[ERROR]: Oct-01-2022 10:11:13: 	WHERE parameter "furnishing_status" has invalid "undefined" value
+[ERROR]: Oct-01-2022 10:13:06: 	WHERE parameter "furnishing_status" has invalid "undefined" value
+[ERROR]: Oct-01-2022 10:16:05: 	WHERE parameter "furnishing_status" has invalid "undefined" value
+[ERROR]: Oct-01-2022 10:16:45: 	WHERE parameter "furnishing_status" has invalid "undefined" value
+[ERROR]: Oct-01-2022 10:16:45: 	WHERE parameter "furnishing_status" has invalid "undefined" value
+[ERROR]: Oct-03-2022 14:51:57: 	/ NOT_FOUND
+[ERROR]: Oct-03-2022 14:52:12: 	jwt expired
+[ERROR]: Oct-03-2022 14:52:13: 	jwt expired
+[ERROR]: Oct-03-2022 14:52:13: 	jwt expired
+[ERROR]: Oct-03-2022 21:38:12: 	jwt expired
+[ERROR]: Oct-03-2022 21:38:12: 	jwt expired
+[ERROR]: Oct-03-2022 21:38:12: 	jwt expired
+[ERROR]: Oct-04-2022 10:37:19: 	Phone number already exists
+[ERROR]: Oct-04-2022 10:37:38: 	Wrong password
+[ERROR]: Oct-04-2022 10:37:49: 	Wrong password
+[ERROR]: Oct-04-2022 10:38:03: 	Wrong password
+[ERROR]: Oct-04-2022 10:38:19: 	Wrong password
+[ERROR]: Oct-04-2022 10:38:26: 	Wrong password
+[ERROR]: Oct-04-2022 10:38:34: 	Wrong password
+[ERROR]: Oct-04-2022 10:38:44: 	Wrong password
+[ERROR]: Oct-04-2022 10:38:48: 	Wrong password
+[ERROR]: Oct-04-2022 12:47:50: 	User not found
+[ERROR]: Oct-04-2022 12:51:04: 	User not found
+[ERROR]: Oct-04-2022 12:51:15: 	User not found
+[ERROR]: Oct-04-2022 12:51:21: 	User not found
+[ERROR]: Oct-04-2022 12:51:25: 	User not found
+[ERROR]: Oct-04-2022 12:51:28: 	User not found
+[ERROR]: Oct-04-2022 12:51:30: 	User not found
+[ERROR]: Oct-04-2022 12:51:32: 	User not found
+[ERROR]: Oct-04-2022 12:51:40: 	User not found
+[ERROR]: Oct-04-2022 12:52:01: 	User not found
+[ERROR]: Oct-04-2022 12:52:05: 	User not found
+[ERROR]: Oct-04-2022 12:52:10: 	User not found
+[ERROR]: Oct-04-2022 12:52:22: 	User not found
+[ERROR]: Oct-04-2022 12:52:30: 	User not found
+[ERROR]: Oct-04-2022 12:52:39: 	User not found
+[ERROR]: Oct-04-2022 12:53:23: 	User not found
+[ERROR]: Oct-04-2022 12:53:26: 	User not found
+[ERROR]: Oct-04-2022 12:54:28: 	User not found
+[ERROR]: Oct-04-2022 12:54:30: 	User not found
+[ERROR]: Oct-04-2022 12:54:44: 	User not found
+[ERROR]: Oct-04-2022 15:58:49: 	Wrong password
+[ERROR]: Oct-04-2022 15:59:09: 	Wrong password
+[ERROR]: Oct-04-2022 15:59:32: 	Wrong password
+[ERROR]: Oct-04-2022 15:59:47: 	Wrong password
+[ERROR]: Oct-04-2022 16:00:40: 	Phone number already exists
+[ERROR]: Oct-04-2022 17:46:38: 	jwt expired
+[ERROR]: Oct-04-2022 17:46:38: 	jwt expired
+[ERROR]: Oct-04-2022 17:46:38: 	jwt expired
+[ERROR]: Oct-04-2022 17:46:41: 	jwt expired
+[ERROR]: Oct-04-2022 17:46:42: 	jwt expired
+[ERROR]: Oct-04-2022 17:46:44: 	jwt expired
+[ERROR]: Oct-04-2022 17:46:56: 	jwt expired
+[ERROR]: Oct-04-2022 17:46:57: 	jwt expired
+[ERROR]: Oct-04-2022 17:46:58: 	jwt expired
+[ERROR]: Oct-04-2022 17:47:00: 	jwt expired
+[ERROR]: Oct-04-2022 17:47:14: 	jwt expired
+[ERROR]: Oct-04-2022 17:47:14: 	jwt expired
+[ERROR]: Oct-04-2022 17:47:14: 	jwt expired
+[ERROR]: Oct-04-2022 17:47:15: 	jwt expired
+[ERROR]: Oct-04-2022 17:47:17: 	jwt expired
+[ERROR]: Oct-04-2022 17:47:18: 	jwt expired
+[ERROR]: Oct-04-2022 17:47:24: 	jwt expired
+[ERROR]: Oct-04-2022 17:47:25: 	jwt expired
+[ERROR]: Oct-04-2022 17:47:25: 	jwt expired
+[ERROR]: Oct-04-2022 17:47:57: 	jwt expired
+[ERROR]: Oct-04-2022 17:48:04: 	jwt expired
+[ERROR]: Oct-04-2022 17:52:34: 	Wrong password
+[ERROR]: Oct-04-2022 17:52:47: 	Wrong password
+[ERROR]: Oct-04-2022 17:52:57: 	Wrong password
+[ERROR]: Oct-04-2022 17:53:14: 	Wrong password
+[ERROR]: Oct-04-2022 17:53:37: 	Wrong password
+[ERROR]: Oct-04-2022 17:53:47: 	Wrong password
+[ERROR]: Oct-04-2022 17:54:12: 	Phone number already exists
+[ERROR]: Oct-04-2022 17:54:41: 	Wrong password
+[ERROR]: Oct-04-2022 17:54:51: 	Wrong password
+[ERROR]: Oct-04-2022 17:54:58: 	Wrong password
+[ERROR]: Oct-04-2022 17:55:43: 	Wrong password
+[ERROR]: Oct-04-2022 17:55:51: 	Wrong password
+[ERROR]: Oct-04-2022 17:56:02: 	Wrong password
+[ERROR]: Oct-04-2022 17:56:10: 	Wrong password
+[ERROR]: Oct-04-2022 17:56:23: 	Wrong password
+[ERROR]: Oct-04-2022 17:56:31: 	Wrong password
+[ERROR]: Oct-04-2022 17:56:53: 	Wrong password
+[ERROR]: Oct-04-2022 17:56:59: 	Wrong password
+[ERROR]: Oct-04-2022 17:57:12: 	Wrong password
+[ERROR]: Oct-04-2022 17:58:22: 	Wrong password
+[ERROR]: Oct-04-2022 18:04:15: 	Phone number already exists
+[ERROR]: Oct-04-2022 18:04:56: 	Phone number already exists
+[ERROR]: Oct-04-2022 18:05:00: 	Phone number already exists
+[ERROR]: Oct-04-2022 18:05:04: 	Phone number already exists
+[ERROR]: Oct-04-2022 18:05:35: 	Wrong password
+[ERROR]: Oct-04-2022 18:05:46: 	Wrong password
+[ERROR]: Oct-04-2022 18:05:49: 	Wrong password
+[ERROR]: Oct-04-2022 18:08:29: 	Wrong password
+[ERROR]: Oct-04-2022 18:08:40: 	Wrong password
+[ERROR]: Oct-04-2022 18:08:48: 	Wrong password
+[ERROR]: Oct-04-2022 18:09:02: 	Wrong password
+[ERROR]: Oct-04-2022 18:09:12: 	Wrong password
+[ERROR]: Oct-04-2022 18:09:22: 	Wrong password
+[ERROR]: Oct-04-2022 18:09:26: 	Wrong password
+[ERROR]: Oct-04-2022 18:09:31: 	Wrong password
+[ERROR]: Oct-04-2022 18:09:34: 	Wrong password
+[ERROR]: Oct-04-2022 20:19:20: 	jwt expired
+[ERROR]: Oct-04-2022 20:19:20: 	jwt expired
+[ERROR]: Oct-04-2022 20:19:20: 	jwt expired
+[ERROR]: Oct-04-2022 20:19:22: 	jwt expired
+[ERROR]: Oct-04-2022 20:19:24: 	jwt expired
+[ERROR]: Oct-04-2022 20:19:28: 	jwt expired
+[ERROR]: Oct-04-2022 20:22:13: 	Phone number already exists
+[ERROR]: Oct-04-2022 20:22:23: 	Wrong password
+[ERROR]: Oct-04-2022 20:22:28: 	Wrong password
+[ERROR]: Oct-04-2022 21:39:05: 	User not found
+[ERROR]: Oct-05-2022 06:57:34: 	Wrong password
+[ERROR]: Oct-05-2022 06:57:41: 	Wrong password
+[ERROR]: Oct-05-2022 14:34:46: 	User not found
+[ERROR]: Oct-05-2022 14:34:58: 	User not found
+[ERROR]: Oct-05-2022 14:35:02: 	User not found
+[ERROR]: Oct-06-2022 07:09:29: 	User not found
+[ERROR]: Oct-06-2022 07:37:23: 	Argument passed to findByPk is invalid: [object Object]
+[ERROR]: Oct-06-2022 07:41:52: 	Argument passed to findByPk is invalid: [object Object]
+[ERROR]: Oct-06-2022 07:41:57: 	Argument passed to findByPk is invalid: [object Object]
+[ERROR]: Oct-06-2022 07:42:11: 	Argument passed to findByPk is invalid: [object Object]
+[ERROR]: Oct-06-2022 07:45:41: 	Argument passed to findByPk is invalid: [object Object]
+[ERROR]: Oct-06-2022 08:07:35: 	House images of >4 are required
+[ERROR]: Oct-09-2022 08:21:49: 	jwt expired
+[ERROR]: Oct-09-2022 08:21:49: 	jwt expired
+[ERROR]: Oct-09-2022 08:21:49: 	jwt expired
+[ERROR]: Oct-09-2022 08:58:42: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 14:10:45: 	jwt expired
+[ERROR]: Oct-09-2022 14:10:45: 	jwt expired
+[ERROR]: Oct-09-2022 14:10:45: 	jwt expired
+[ERROR]: Oct-09-2022 14:30:37: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 14:30:47: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 14:31:07: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 14:31:08: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 14:31:12: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 14:31:13: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 14:31:14: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 14:31:15: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 14:31:18: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 14:31:19: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 14:31:20: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 14:31:22: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 14:31:25: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 14:33:44: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 14:34:59: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 15:51:51: 	Unexpected field
+[ERROR]: Oct-09-2022 15:53:07: 	Unexpected field
+[ERROR]: Oct-09-2022 15:54:04: 	Unexpected field
+[ERROR]: Oct-09-2022 15:56:07: 	Unexpected field
+[ERROR]: Oct-09-2022 16:47:17: 	/ NOT_FOUND
+[ERROR]: Oct-09-2022 16:50:20: 	Wrong password
+[ERROR]: Oct-09-2022 16:50:32: 	Wrong password
+[ERROR]: Oct-10-2022 07:50:10: 	jwt expired
+[ERROR]: Oct-10-2022 07:50:10: 	jwt expired
+[ERROR]: Oct-10-2022 07:50:10: 	jwt expired
+[ERROR]: Oct-10-2022 09:05:47: 	/ NOT_FOUND
+[ERROR]: Oct-10-2022 16:42:04: 	/ NOT_FOUND
+[ERROR]: Oct-10-2022 19:17:19: 	Wrong password
+[ERROR]: Oct-10-2022 19:52:37: 	/ NOT_FOUND
+[ERROR]: Oct-13-2022 00:04:19: 	Wrong password
+[ERROR]: Oct-14-2022 08:09:33: 	Wrong password
+[ERROR]: Oct-14-2022 08:09:40: 	Wrong password
+[ERROR]: Oct-14-2022 08:09:51: 	Wrong password
+[ERROR]: Oct-15-2022 17:52:04: 	jwt expired
+[ERROR]: Oct-15-2022 17:52:04: 	jwt expired
+[ERROR]: Oct-15-2022 17:52:05: 	jwt expired
+[ERROR]: Oct-16-2022 06:08:02: 	jwt expired
+[ERROR]: Oct-16-2022 06:08:02: 	jwt expired
+[ERROR]: Oct-16-2022 06:08:02: 	jwt expired
+[ERROR]: Oct-16-2022 08:34:04: 	/ NOT_FOUND
+[ERROR]: Oct-17-2022 07:16:14: 	User not found
+[ERROR]: Oct-17-2022 10:48:59: 	jwt expired
+[ERROR]: Oct-17-2022 10:48:59: 	jwt expired
+[ERROR]: Oct-17-2022 12:57:32: 	Wrong password
+[ERROR]: Oct-17-2022 12:57:38: 	Wrong password
+[ERROR]: Oct-18-2022 10:23:22: 	jwt expired
+[ERROR]: Oct-18-2022 10:23:22: 	jwt expired
+[ERROR]: Oct-18-2022 10:23:22: 	jwt expired
+[ERROR]: Oct-18-2022 10:27:22: 	Host 'godfather.hostns.io' is not allowed to connect to this MariaDB server
+[ERROR]: Oct-18-2022 14:21:37: 	Phone number already exists
+[ERROR]: Oct-18-2022 14:29:57: 	/ NOT_FOUND
+[ERROR]: Oct-19-2022 07:59:57: 	Wrong password
+[ERROR]: Oct-19-2022 08:01:46: 	jwt expired
+[ERROR]: Oct-19-2022 08:01:46: 	jwt expired
+[ERROR]: Oct-19-2022 08:01:46: 	jwt expired
+[ERROR]: Oct-19-2022 12:40:24: 	Wrong password
+[ERROR]: Oct-19-2022 12:40:27: 	Wrong password
+[ERROR]: Oct-19-2022 12:40:40: 	Wrong password
+[ERROR]: Oct-19-2022 18:20:19: 	Wrong password
+[ERROR]: Oct-22-2022 12:32:13: 	jwt expired
+[ERROR]: Oct-22-2022 12:33:16: 	jwt expired
+[ERROR]: Oct-22-2022 12:37:06: 	jwt expired
+[ERROR]: Oct-22-2022 12:38:36: 	jwt expired
+[ERROR]: Oct-22-2022 12:40:01: 	jwt expired
+[ERROR]: Oct-22-2022 12:46:48: 	jwt expired
+[ERROR]: Oct-22-2022 12:46:48: 	jwt expired
+[ERROR]: Oct-22-2022 12:46:48: 	jwt expired
+[ERROR]: Oct-22-2022 12:48:48: 	jwt expired
+[ERROR]: Oct-22-2022 12:51:01: 	jwt expired
+[ERROR]: Oct-22-2022 12:51:25: 	jwt expired
+[ERROR]: Oct-22-2022 12:51:25: 	jwt expired
+[ERROR]: Oct-22-2022 12:51:25: 	jwt expired
+[ERROR]: Oct-22-2022 13:14:50: 	jwt expired
+[ERROR]: Oct-22-2022 13:14:50: 	jwt expired
+[ERROR]: Oct-22-2022 13:14:50: 	jwt expired
+[ERROR]: Oct-25-2022 11:19:36: 	/ NOT_FOUND
+[ERROR]: Oct-25-2022 11:19:38: 	/ NOT_FOUND
+[ERROR]: Oct-25-2022 11:19:39: 	/ NOT_FOUND
+[ERROR]: Oct-25-2022 11:20:00: 	Wrong password
+[ERROR]: Oct-25-2022 11:20:47: 	Wrong password
+[ERROR]: Oct-29-2022 14:16:33: 	/ NOT_FOUND
+[ERROR]: Oct-29-2022 14:17:09: 	/ NOT_FOUND
+[ERROR]: Oct-29-2022 14:17:13: 	/ NOT_FOUND
+[ERROR]: Oct-29-2022 14:17:22: 	/ NOT_FOUND
+[ERROR]: Oct-29-2022 14:18:19: 	/ NOT_FOUND
+[ERROR]: Oct-29-2022 14:32:42: 	User not found
+[ERROR]: Nov-03-2022 14:35:15: 	jwt expired
+[ERROR]: Nov-03-2022 14:35:15: 	jwt expired
+[ERROR]: Nov-03-2022 14:35:15: 	jwt expired
+[ERROR]: Nov-03-2022 14:35:53: 	Wrong password
+[ERROR]: Nov-04-2022 20:07:36: 	jwt expired
+[ERROR]: Nov-04-2022 20:07:36: 	jwt expired
+[ERROR]: Nov-04-2022 20:07:36: 	jwt expired
+[ERROR]: Nov-06-2022 09:06:05: 	jwt expired
+[ERROR]: Nov-06-2022 09:06:05: 	jwt expired
+[ERROR]: Nov-06-2022 09:06:05: 	jwt expired
+[ERROR]: Nov-09-2022 15:11:28: 	/?houseType=Any&bedrooms=Any&bathrooms=Any&minArea=70.0&maxArea=1000.0&furnishingType=Any&serviceType=Any&subcity=Any NOT_FOUND
+[ERROR]: Nov-09-2022 15:19:12: 	notNull Violation: requestedHouse.minPrice cannot be null,
+notNull Violation: requestedHouse.maxPrice cannot be null
+[ERROR]: Nov-09-2022 15:21:09: 	notNull Violation: requestedHouse.minPrice cannot be null,
+notNull Violation: requestedHouse.maxPrice cannot be null
+[ERROR]: Nov-09-2022 15:21:32: 	filteredHouses is not defined
+[ERROR]: Nov-09-2022 16:20:15: 	jwt expired
+[ERROR]: Nov-09-2022 16:20:15: 	jwt expired
+[ERROR]: Nov-09-2022 16:20:15: 	jwt expired
+[ERROR]: Nov-09-2022 16:25:32: 	jwt expired
+[ERROR]: Nov-09-2022 16:25:32: 	jwt expired
+[ERROR]: Nov-09-2022 16:25:32: 	jwt expired
+[ERROR]: Nov-09-2022 16:25:55: 	Wrong password
+[ERROR]: Nov-10-2022 07:27:13: 	Wrong password
+[ERROR]: Nov-10-2022 07:27:23: 	Wrong password
+[ERROR]: Nov-11-2022 06:31:17: 	jwt expired
+[ERROR]: Nov-11-2022 06:31:20: 	jwt expired
+[ERROR]: Nov-11-2022 06:31:20: 	jwt expired
+[ERROR]: Nov-11-2022 06:31:20: 	jwt expired
+[ERROR]: Nov-11-2022 18:25:41: 	jwt expired
+[ERROR]: Nov-11-2022 18:26:04: 	jwt expired
+[ERROR]: Nov-11-2022 18:26:06: 	jwt expired
+[ERROR]: Nov-11-2022 18:26:09: 	jwt expired
+[ERROR]: Nov-11-2022 18:26:13: 	jwt expired
+[ERROR]: Nov-11-2022 18:26:13: 	jwt expired
+[ERROR]: Nov-12-2022 21:56:41: 	jwt expired
+[ERROR]: Nov-12-2022 22:01:03: 	jwt expired
+[ERROR]: Nov-12-2022 22:01:03: 	jwt expired
+[ERROR]: Nov-12-2022 22:01:08: 	jwt expired
+[ERROR]: Nov-12-2022 22:01:08: 	jwt expired
+[ERROR]: Nov-12-2022 22:01:08: 	jwt expired
+[ERROR]: Nov-12-2022 22:01:34: 	jwt expired
+[ERROR]: Nov-12-2022 22:01:34: 	jwt expired
+[ERROR]: Nov-12-2022 22:01:34: 	jwt expired
+[ERROR]: Nov-13-2022 12:57:42: 	/?houseId=25 NOT_FOUND
+[ERROR]: Nov-13-2022 12:57:45: 	/?houseId=25 NOT_FOUND
+[ERROR]: Nov-13-2022 12:57:46: 	/?houseId=25 NOT_FOUND
+[ERROR]: Nov-13-2022 12:58:46: 	/?houseId=25 NOT_FOUND
+[ERROR]: Nov-13-2022 12:59:28: 	/?houseId=25 NOT_FOUND
+[ERROR]: Nov-13-2022 12:59:36: 	/?houseId=25 NOT_FOUND
+[ERROR]: Nov-13-2022 13:00:33: 	/ NOT_FOUND
+[ERROR]: Nov-13-2022 13:00:44: 	Auth header is missing
+[ERROR]: Nov-13-2022 13:01:12: 	Auth header is missing
+[ERROR]: Nov-13-2022 13:01:21: 	/?houseId=25 NOT_FOUND
+[ERROR]: Nov-13-2022 13:01:21: 	/?houseId=25 NOT_FOUND
+[ERROR]: Nov-13-2022 13:03:30: 	/?houseId=25 NOT_FOUND
+[ERROR]: Nov-13-2022 13:03:37: 	/?houseId=25 NOT_FOUND
+[ERROR]: Nov-13-2022 14:16:04: 	/ NOT_FOUND
+[ERROR]: Nov-13-2022 14:16:06: 	/ NOT_FOUND
+[ERROR]: Nov-13-2022 14:16:14: 	/ NOT_FOUND
+[ERROR]: Nov-13-2022 14:16:16: 	/ NOT_FOUND
+[ERROR]: Nov-13-2022 14:16:16: 	/ NOT_FOUND
+[ERROR]: Nov-13-2022 14:16:17: 	/ NOT_FOUND
+[ERROR]: Nov-13-2022 14:16:18: 	/ NOT_FOUND
+[ERROR]: Nov-13-2022 14:19:32: 	/ NOT_FOUND
+[ERROR]: Nov-14-2022 09:42:39: 	jwt expired
+[ERROR]: Nov-14-2022 09:42:39: 	jwt expired
+[ERROR]: Nov-14-2022 09:42:39: 	jwt expired
+[ERROR]: Nov-16-2022 09:50:57: 	jwt expired
+[ERROR]: Nov-16-2022 09:50:57: 	jwt expired
+[ERROR]: Nov-16-2022 09:50:57: 	jwt expired
+[ERROR]: Nov-16-2022 11:43:17: 	/ NOT_FOUND
+[ERROR]: Nov-17-2022 17:17:24: 	jwt expired
+[ERROR]: Nov-17-2022 17:17:24: 	jwt expired
+[ERROR]: Nov-17-2022 17:17:24: 	jwt expired
+[ERROR]: Nov-17-2022 17:17:27: 	jwt expired
+[ERROR]: Nov-17-2022 17:17:29: 	jwt expired
+[ERROR]: Nov-17-2022 17:17:33: 	jwt expired
+[ERROR]: Dec-03-2022 18:11:25: 	/ NOT_FOUND
+[ERROR]: Dec-07-2022 09:12:55: 	/ NOT_FOUND
+[ERROR]: Dec-13-2022 05:15:52: 	Phone number already exists
+[ERROR]: Dec-13-2022 05:16:11: 	Wrong password
+[ERROR]: Dec-13-2022 05:16:40: 	Wrong password
+[ERROR]: Dec-13-2022 05:16:55: 	Wrong password
+[ERROR]: Dec-13-2022 12:06:11: 	jwt expired
+[ERROR]: Dec-13-2022 12:06:11: 	jwt expired
+[ERROR]: Dec-13-2022 12:06:11: 	jwt expired
+[ERROR]: Dec-17-2022 06:11:48: 	User not found
+[ERROR]: Dec-17-2022 06:11:58: 	User not found
+[ERROR]: Dec-20-2022 20:13:41: 	User not found
+[ERROR]: Dec-20-2022 20:14:10: 	User not found
+[ERROR]: Dec-20-2022 20:14:17: 	User not found
+[ERROR]: Dec-21-2022 06:41:09: 	Wrong password
+[ERROR]: Dec-23-2022 13:07:09: 	jwt expired
+[ERROR]: Dec-23-2022 13:10:28: 	jwt expired
+[ERROR]: Dec-23-2022 13:12:38: 	jwt expired
+[ERROR]: Dec-23-2022 13:12:38: 	jwt expired
+[ERROR]: Dec-23-2022 13:12:38: 	jwt expired
+[ERROR]: Dec-23-2022 13:12:50: 	jwt expired
+[ERROR]: Dec-23-2022 13:12:50: 	jwt expired
+[ERROR]: Dec-23-2022 13:12:50: 	jwt expired
+[ERROR]: Dec-23-2022 13:14:58: 	jwt expired
+[ERROR]: Dec-23-2022 13:19:00: 	jwt expired
+[ERROR]: Dec-23-2022 13:19:00: 	jwt expired
+[ERROR]: Dec-23-2022 13:19:00: 	jwt expired
+[ERROR]: Dec-23-2022 13:19:21: 	jwt expired
+[ERROR]: Dec-26-2022 03:44:20: 	jwt expired
+[ERROR]: Dec-26-2022 03:44:20: 	jwt expired
+[ERROR]: Dec-26-2022 03:44:20: 	jwt expired
+[ERROR]: Dec-26-2022 03:44:23: 	jwt expired
+[ERROR]: Dec-26-2022 03:44:25: 	jwt expired
+[ERROR]: Dec-31-2022 02:18:33: 	/ NOT_FOUND
+[ERROR]: Dec-31-2022 02:19:57: 	/ NOT_FOUND
+[ERROR]: Dec-31-2022 02:20:12: 	/ NOT_FOUND
+[ERROR]: Dec-31-2022 02:20:13: 	/ NOT_FOUND
+[ERROR]: Dec-31-2022 02:20:14: 	/ NOT_FOUND
+[ERROR]: Dec-31-2022 02:20:16: 	/ NOT_FOUND
+[ERROR]: Dec-31-2022 02:20:18: 	/ NOT_FOUND
+[ERROR]: Dec-31-2022 02:20:33: 	/ NOT_FOUND
+[ERROR]: Dec-31-2022 02:20:45: 	/ NOT_FOUND
+[ERROR]: Dec-31-2022 02:21:32: 	/ NOT_FOUND
+[ERROR]: Jan-01-2023 09:08:32: 	jwt expired
+[ERROR]: Jan-01-2023 09:08:32: 	jwt expired
+[ERROR]: Jan-01-2023 09:08:32: 	jwt expired
+[ERROR]: Jan-01-2023 13:52:54: 	jwt expired
+[ERROR]: Jan-01-2023 13:52:56: 	jwt expired
+[ERROR]: Jan-01-2023 13:52:56: 	jwt expired
+[ERROR]: Jan-03-2023 08:35:52: 	jwt expired
+[ERROR]: Jan-03-2023 08:35:52: 	jwt expired
+[ERROR]: Jan-03-2023 08:35:52: 	jwt expired
+[ERROR]: Jan-10-2023 15:14:27: 	jwt expired
+[ERROR]: Jan-10-2023 15:14:27: 	jwt expired
+[ERROR]: Jan-10-2023 15:14:27: 	jwt expired
+[ERROR]: Jan-14-2023 20:31:19: 	jwt expired
+[ERROR]: Jan-14-2023 20:31:19: 	jwt expired
+[ERROR]: Jan-14-2023 20:31:19: 	jwt expired
+[ERROR]: Jan-17-2023 09:53:24: 	jwt expired
+[ERROR]: Jan-17-2023 09:53:25: 	jwt expired
+[ERROR]: Jan-17-2023 09:53:25: 	jwt expired
+[ERROR]: Jan-17-2023 09:53:27: 	jwt expired
+[ERROR]: Jan-21-2023 19:28:30: 	User not found
+[ERROR]: Feb-02-2023 19:23:27: 	jwt expired
+[ERROR]: Feb-02-2023 19:23:27: 	jwt expired
+[ERROR]: Feb-02-2023 19:23:29: 	jwt expired
+[ERROR]: Feb-04-2023 13:30:34: 	jwt expired
+[ERROR]: Feb-04-2023 13:30:34: 	jwt expired
+[ERROR]: Feb-04-2023 13:30:34: 	jwt expired
+[ERROR]: Feb-14-2023 15:49:31: 	jwt expired
+[ERROR]: Feb-14-2023 15:49:31: 	jwt expired
+[ERROR]: Feb-14-2023 15:49:31: 	jwt expired
+[ERROR]: Mar-10-2023 08:43:23: 	jwt expired
+[ERROR]: Mar-10-2023 08:43:23: 	jwt expired
+[ERROR]: Mar-10-2023 08:43:23: 	jwt expired
+[ERROR]: Apr-20-2023 09:37:09: 	/ NOT_FOUND
+[ERROR]: Apr-20-2023 09:37:34: 	/ NOT_FOUND
+[ERROR]: Apr-20-2023 09:37:38: 	/ NOT_FOUND
+[ERROR]: Apr-20-2023 09:37:47: 	/ NOT_FOUND
+[ERROR]: Apr-20-2023 09:41:46: 	/ NOT_FOUND
+[ERROR]: Apr-20-2023 09:41:52: 	/ NOT_FOUND
+[ERROR]: May-23-2023 14:03:52: 	jwt expired
+[ERROR]: May-23-2023 14:03:52: 	jwt expired
+[ERROR]: May-23-2023 14:03:53: 	jwt expired
+[ERROR]: May-25-2023 08:25:08: 	Wrong password
+[ERROR]: May-25-2023 08:25:17: 	Wrong password
+[ERROR]: May-25-2023 08:25:23: 	Wrong password
+[ERROR]: Jun-10-2023 02:31:35: 	/ NOT_FOUND
+[ERROR]: Jun-10-2023 02:31:37: 	/ NOT_FOUND
+[ERROR]: Jun-10-2023 02:31:47: 	/ NOT_FOUND
+[ERROR]: Jun-10-2023 02:31:49: 	/ NOT_FOUND
+[ERROR]: Jun-10-2023 02:31:53: 	/ NOT_FOUND
+[ERROR]: Jun-10-2023 02:31:57: 	/ NOT_FOUND
+[ERROR]: Jun-10-2023 02:31:59: 	/ NOT_FOUND
+[ERROR]: Jun-10-2023 02:32:02: 	/ NOT_FOUND
+[ERROR]: Jun-10-2023 02:32:04: 	/ NOT_FOUND
+[ERROR]: Jun-10-2023 02:32:20: 	/ NOT_FOUND
+[ERROR]: Jun-10-2023 02:32:25: 	/ NOT_FOUND
+[ERROR]: Jun-14-2023 08:28:12: 	jwt expired
+[ERROR]: Jun-14-2023 08:28:13: 	jwt expired
+[ERROR]: Jun-14-2023 08:28:13: 	jwt expired
+[ERROR]: Jun-21-2023 11:16:48: 	Wrong password
+[ERROR]: Jun-21-2023 11:17:02: 	Wrong password
+[ERROR]: Jul-18-2023 08:35:07: 	User not found
+[ERROR]: Jul-18-2023 08:36:47: 	/ NOT_FOUND
+[ERROR]: Jul-18-2023 08:36:49: 	/ NOT_FOUND
+[ERROR]: Jul-18-2023 08:36:51: 	/ NOT_FOUND
+[ERROR]: Jul-18-2023 08:36:58: 	/ NOT_FOUND
+[ERROR]: Jul-18-2023 18:50:03: 	/ NOT_FOUND
+[ERROR]: Jul-18-2023 18:50:09: 	/ NOT_FOUND
+[ERROR]: Jul-18-2023 18:50:10: 	/ NOT_FOUND
+[ERROR]: Jul-18-2023 18:50:15: 	/ NOT_FOUND
+[ERROR]: Jul-18-2023 18:50:17: 	/ NOT_FOUND
+[ERROR]: Jul-18-2023 18:50:21: 	/ NOT_FOUND
+[ERROR]: Jul-18-2023 18:50:31: 	/ NOT_FOUND
+[ERROR]: Jul-20-2023 14:08:45: 	/ NOT_FOUND
+[ERROR]: Jul-26-2023 10:36:52: 	Wrong password
+[ERROR]: Jul-26-2023 10:36:59: 	Wrong password
+[ERROR]: Jul-27-2023 15:14:12: 	jwt expired
+[ERROR]: Jul-27-2023 15:14:12: 	jwt expired
+[ERROR]: Jul-27-2023 15:14:12: 	jwt expired
+[ERROR]: Jul-27-2023 15:14:15: 	jwt expired
+[ERROR]: Jul-28-2023 21:36:17: 	/ NOT_FOUND
+[ERROR]: Jul-28-2023 21:36:20: 	/ NOT_FOUND
+[ERROR]: Jul-28-2023 21:36:21: 	/ NOT_FOUND
+[ERROR]: Jul-28-2023 21:36:26: 	/ NOT_FOUND
+[ERROR]: Jul-28-2023 21:36:26: 	/ NOT_FOUND
+[ERROR]: Jul-28-2023 21:36:27: 	/ NOT_FOUND
+[ERROR]: Jul-29-2023 07:09:52: 	/ NOT_FOUND
+[ERROR]: Jul-29-2023 07:10:08: 	/ NOT_FOUND
+[ERROR]: Jul-29-2023 10:48:38: 	/ NOT_FOUND
+[ERROR]: Jul-29-2023 10:48:40: 	/ NOT_FOUND
+[ERROR]: Jul-29-2023 10:48:43: 	/ NOT_FOUND
+[ERROR]: Jul-29-2023 10:48:45: 	/ NOT_FOUND
+[ERROR]: Jul-29-2023 13:52:15: 	/ NOT_FOUND
+[ERROR]: Jul-29-2023 13:52:23: 	/ NOT_FOUND
+[ERROR]: Aug-02-2023 21:28:03: 	/ NOT_FOUND
+[ERROR]: Aug-02-2023 21:28:05: 	/ NOT_FOUND
+[ERROR]: Aug-02-2023 21:28:06: 	/ NOT_FOUND
+[ERROR]: Aug-02-2023 21:28:09: 	/ NOT_FOUND
+[ERROR]: Aug-02-2023 21:28:11: 	/ NOT_FOUND
+[ERROR]: Aug-02-2023 21:28:12: 	/ NOT_FOUND
+[ERROR]: Aug-03-2023 07:59:00: 	/ NOT_FOUND
+[ERROR]: Aug-04-2023 10:28:11: 	/ NOT_FOUND
+[ERROR]: Aug-04-2023 17:15:12: 	/ NOT_FOUND
+[ERROR]: Aug-05-2023 11:33:08: 	jwt expired
+[ERROR]: Aug-05-2023 13:13:14: 	jwt expired
+[ERROR]: Aug-05-2023 13:16:20: 	jwt expired
+[ERROR]: Aug-05-2023 13:16:44: 	jwt expired
+[ERROR]: Aug-05-2023 13:17:46: 	jwt expired
+[ERROR]: Aug-05-2023 13:17:50: 	jwt expired
+[ERROR]: Aug-05-2023 13:18:51: 	jwt expired
+[ERROR]: Aug-05-2023 13:20:39: 	jwt expired
+[ERROR]: Aug-05-2023 13:20:49: 	jwt expired
+[ERROR]: Aug-05-2023 13:21:32: 	jwt expired
+[ERROR]: Aug-05-2023 20:09:31: 	/ NOT_FOUND
+[ERROR]: Aug-05-2023 20:09:35: 	/ NOT_FOUND
+[ERROR]: Aug-05-2023 20:09:36: 	/ NOT_FOUND
+[ERROR]: Aug-07-2023 17:13:08: 	/ NOT_FOUND
+[ERROR]: Aug-16-2023 19:29:58: 	jwt expired
+[ERROR]: Aug-16-2023 19:30:38: 	User not found
+[ERROR]: Aug-16-2023 19:30:53: 	User not found
+[ERROR]: Aug-16-2023 19:31:55: 	jwt expired
+[ERROR]: Aug-16-2023 19:33:00: 	/ NOT_FOUND
+[ERROR]: Aug-19-2023 12:52:47: 	/ NOT_FOUND
+[ERROR]: Aug-19-2023 12:53:24: 	/ NOT_FOUND
+[ERROR]: Aug-22-2023 12:51:37: 	jwt expired
+[ERROR]: Aug-22-2023 13:01:06: 	jwt expired
+[ERROR]: Aug-22-2023 13:02:01: 	jwt expired
+[ERROR]: Aug-22-2023 13:03:42: 	jwt expired
+[ERROR]: Aug-22-2023 13:04:35: 	/ NOT_FOUND
+[ERROR]: Aug-22-2023 13:05:03: 	jwt expired
+[ERROR]: Aug-22-2023 13:06:54: 	User not found
+[ERROR]: Aug-22-2023 13:07:04: 	User not found
+[ERROR]: Aug-22-2023 13:49:26: 	jwt expired
+[ERROR]: Aug-23-2023 19:01:30: 	User not found
+[ERROR]: Aug-23-2023 19:01:41: 	User not found
+[ERROR]: Aug-23-2023 19:02:08: 	User not found
+[ERROR]: Aug-23-2023 19:02:13: 	User not found
+[ERROR]: Aug-24-2023 00:04:37: 	jwt expired
+[ERROR]: Aug-24-2023 00:04:37: 	jwt expired
+[ERROR]: Aug-24-2023 00:04:37: 	jwt expired
+[ERROR]: Aug-25-2023 01:44:47: 	/ NOT_FOUND
+[ERROR]: Aug-25-2023 01:44:47: 	/ NOT_FOUND
+[ERROR]: Aug-25-2023 10:52:50: 	/ NOT_FOUND
+[ERROR]: Aug-25-2023 10:52:50: 	/ NOT_FOUND
+[ERROR]: Aug-25-2023 16:34:49: 	/ NOT_FOUND
+[ERROR]: Aug-25-2023 21:02:03: 	/ NOT_FOUND
+[ERROR]: Aug-26-2023 05:29:58: 	/ NOT_FOUND
+[ERROR]: Aug-26-2023 09:41:13: 	/ NOT_FOUND
+[ERROR]: Aug-26-2023 09:41:21: 	/ NOT_FOUND
+[ERROR]: Aug-26-2023 09:44:56: 	/ NOT_FOUND
+[ERROR]: Aug-28-2023 08:20:56: 	/ NOT_FOUND
+[ERROR]: Sep-01-2023 16:59:20: 	/ NOT_FOUND
+[ERROR]: Sep-01-2023 17:00:15: 	/ NOT_FOUND
+[ERROR]: Sep-01-2023 17:00:44: 	/ NOT_FOUND
+[ERROR]: Sep-01-2023 18:05:57: 	Auth header is missing
+[ERROR]: Sep-01-2023 19:01:19: 	/ NOT_FOUND
+[ERROR]: Sep-02-2023 05:42:35: 	/ NOT_FOUND
+[ERROR]: Sep-02-2023 05:42:44: 	/ NOT_FOUND
+[ERROR]: Sep-02-2023 05:42:57: 	/ NOT_FOUND
+[ERROR]: Sep-02-2023 06:30:02: 	/ NOT_FOUND
+[ERROR]: Sep-02-2023 06:30:07: 	/ NOT_FOUND
+[ERROR]: Sep-02-2023 06:37:25: 	jwt expired
+[ERROR]: Sep-02-2023 12:58:11: 	/ NOT_FOUND
+[ERROR]: Sep-02-2023 12:58:19: 	/ NOT_FOUND
+[ERROR]: Sep-02-2023 13:43:49: 	/ NOT_FOUND
+[ERROR]: Sep-02-2023 13:46:44: 	jwt expired
+[ERROR]: Sep-05-2023 10:16:20: 	/ NOT_FOUND
+[ERROR]: Sep-05-2023 10:28:08: 	/ NOT_FOUND
+[ERROR]: Sep-10-2023 10:11:40: 	jwt expired
+[ERROR]: Sep-10-2023 10:11:40: 	jwt expired
+[ERROR]: Sep-10-2023 10:11:41: 	jwt expired
+[ERROR]: Sep-25-2023 11:12:38: 	jwt expired
+[ERROR]: Sep-25-2023 11:12:38: 	jwt expired
+[ERROR]: Sep-25-2023 11:12:38: 	jwt expired
+[ERROR]: Oct-12-2023 10:04:43: 	Auth header is missing
+[ERROR]: Oct-12-2023 19:22:24: 	Auth header is missing
+[ERROR]: Oct-13-2023 09:37:35: 	Auth header is missing
+[ERROR]: Oct-13-2023 12:04:05: 	/ NOT_FOUND
+[ERROR]: Oct-13-2023 12:05:32: 	/ NOT_FOUND
+[ERROR]: Oct-14-2023 12:57:42: 	/ NOT_FOUND
+[ERROR]: Oct-14-2023 13:15:35: 	jwt expired
+[ERROR]: Oct-14-2023 13:15:35: 	jwt expired
+[ERROR]: Oct-14-2023 13:15:35: 	jwt expired
+[ERROR]: Oct-15-2023 20:27:27: 	jwt expired
+[ERROR]: Oct-15-2023 20:27:43: 	jwt expired
+[ERROR]: Oct-15-2023 20:30:00: 	jwt expired
+[ERROR]: Oct-15-2023 20:30:52: 	jwt expired
+[ERROR]: Oct-15-2023 20:31:10: 	jwt expired
+[ERROR]: Oct-16-2023 10:08:49: 	jwt expired
+[ERROR]: Oct-16-2023 10:08:49: 	jwt expired
+[ERROR]: Oct-16-2023 10:08:51: 	jwt expired
+[ERROR]: Oct-24-2023 21:31:09: 	/ NOT_FOUND
+[ERROR]: Oct-24-2023 21:31:09: 	/ NOT_FOUND
+[ERROR]: Oct-24-2023 21:43:18: 	Phone number already exists
+[ERROR]: Oct-24-2023 21:43:30: 	Phone number already exists
+[ERROR]: Oct-24-2023 21:43:54: 	/ NOT_FOUND
+[ERROR]: Oct-24-2023 21:44:07: 	/ NOT_FOUND
+[ERROR]: Oct-24-2023 21:44:13: 	/ NOT_FOUND
+[ERROR]: Oct-24-2023 21:49:01: 	Wrong password
+[ERROR]: Oct-24-2023 21:50:35: 	Wrong password
+[ERROR]: Oct-24-2023 22:00:18: 	Wrong password
+[ERROR]: Oct-24-2023 22:03:53: 	Wrong password
+[ERROR]: Oct-24-2023 22:09:23: 	Wrong password
+[ERROR]: Oct-24-2023 22:09:54: 	Wrong password
+[ERROR]: Oct-24-2023 22:12:04: 	Wrong password
+[ERROR]: Oct-24-2023 22:17:55: 	Wrong password
+[ERROR]: Oct-24-2023 22:19:42: 	Wrong password
+[ERROR]: Oct-24-2023 22:20:41: 	Wrong password
+[ERROR]: Oct-27-2023 14:48:03: 	Wrong password
+[ERROR]: Oct-27-2023 14:48:27: 	Wrong password
+[ERROR]: Oct-27-2023 14:48:51: 	User not found
+[ERROR]: Oct-27-2023 14:49:18: 	Wrong password
+[ERROR]: Oct-27-2023 14:50:44: 	Wrong password
+[ERROR]: Oct-27-2023 14:51:26: 	Phone number already exists
+[ERROR]: Oct-27-2023 14:52:53: 	Phone number already exists
+[ERROR]: Oct-27-2023 14:53:17: 	Phone number already exists
+[ERROR]: Oct-27-2023 14:53:34: 	Phone number already exists
+[ERROR]: Oct-27-2023 14:53:58: 	Phone number already exists
+[ERROR]: Oct-27-2023 14:54:43: 	Phone number already exists
+[ERROR]: Oct-27-2023 14:55:54: 	Phone number already exists
+[ERROR]: Oct-29-2023 06:45:34: 	/ NOT_FOUND
+[ERROR]: Oct-29-2023 06:54:04: 	Wrong password
+[ERROR]: Oct-29-2023 07:07:53: 	Wrong password
+[ERROR]: Oct-29-2023 07:20:37: 	Wrong password
+[ERROR]: Oct-29-2023 08:15:39: 	Wrong password
+[ERROR]: Oct-29-2023 08:15:46: 	Wrong password
+[ERROR]: Oct-29-2023 08:53:30: 	Wrong password
+[ERROR]: Oct-29-2023 13:20:11: 	/ NOT_FOUND
+[ERROR]: Oct-29-2023 13:24:51: 	/ NOT_FOUND
+[ERROR]: Oct-29-2023 13:25:32: 	/ NOT_FOUND
+[ERROR]: Oct-29-2023 13:27:53: 	/ NOT_FOUND
+[ERROR]: Oct-29-2023 13:28:06: 	/ NOT_FOUND
+[ERROR]: Oct-29-2023 13:28:07: 	/ NOT_FOUND
+[ERROR]: Oct-29-2023 13:29:06: 	/ NOT_FOUND
+[ERROR]: Oct-29-2023 13:32:58: 	/ NOT_FOUND
+[ERROR]: Oct-30-2023 12:24:05: 	/ NOT_FOUND
+[ERROR]: Oct-30-2023 13:02:42: 	/ NOT_FOUND
+[ERROR]: Oct-30-2023 19:02:10: 	/ NOT_FOUND
+[ERROR]: Oct-30-2023 19:15:44: 	/ NOT_FOUND
+[ERROR]: Oct-30-2023 19:22:06: 	/ NOT_FOUND
+[ERROR]: Oct-30-2023 19:24:00: 	/ NOT_FOUND
+[ERROR]: Oct-31-2023 04:55:08: 	/ NOT_FOUND
+[ERROR]: Nov-01-2023 17:47:46: 	/ NOT_FOUND
+[ERROR]: Nov-01-2023 18:12:09: 	Wrong password
+[ERROR]: Nov-01-2023 19:42:29: 	/ NOT_FOUND
+[ERROR]: Nov-01-2023 19:43:03: 	/ NOT_FOUND
+[ERROR]: Nov-01-2023 21:02:41: 	/? NOT_FOUND
+[ERROR]: Nov-01-2023 21:03:27: 	Auth header is missing
+[ERROR]: Nov-01-2023 21:04:13: 	Auth header is missing
+[ERROR]: Nov-01-2023 21:04:19: 	Auth header is missing
+[ERROR]: Nov-01-2023 21:04:56: 	Auth header is missing
+[ERROR]: Nov-01-2023 21:06:07: 	Auth header is missing
+[ERROR]: Nov-01-2023 21:07:01: 	Auth header is missing
+[ERROR]: Nov-01-2023 21:07:54: 	Auth header is missing
+[ERROR]: Nov-01-2023 21:08:26: 	Auth header is missing
+[ERROR]: Nov-01-2023 21:09:20: 	Auth header is missing
+[ERROR]: Nov-01-2023 21:10:32: 	Auth header is missing
+[ERROR]: Nov-01-2023 21:12:09: 	Auth header is missing
+[ERROR]: Nov-01-2023 21:12:24: 	jwt expired
+[ERROR]: Nov-01-2023 21:12:44: 	jwt expired
+[ERROR]: Nov-01-2023 21:13:03: 	Auth header is missing
+[ERROR]: Nov-02-2023 10:05:57: 	Auth header is missing
+[ERROR]: Nov-02-2023 11:18:17: 	Auth header is missing
+[ERROR]: Nov-02-2023 13:35:55: 	jwt malformed
+[ERROR]: Nov-02-2023 13:36:02: 	jwt malformed
+[ERROR]: Nov-02-2023 13:37:55: 	jwt malformed
+[ERROR]: Nov-02-2023 13:38:22: 	jwt malformed
+[ERROR]: Nov-02-2023 13:38:47: 	jwt malformed
+[ERROR]: Nov-02-2023 13:39:33: 	jwt malformed
+[ERROR]: Nov-02-2023 14:57:58: 	jwt malformed
+[ERROR]: Nov-02-2023 14:58:13: 	jwt malformed
+[ERROR]: Nov-02-2023 15:00:37: 	jwt malformed
+[ERROR]: Nov-02-2023 15:00:43: 	jwt malformed
+[ERROR]: Nov-02-2023 15:01:54: 	jwt malformed
+[ERROR]: Nov-02-2023 15:02:19: 	Wrong password
+[ERROR]: Nov-03-2023 05:04:03: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:23:19: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:24:34: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:28:55: 	Wrong password
+[ERROR]: Nov-03-2023 05:31:59: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:33:07: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:33:59: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:34:19: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:34:27: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:34:54: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:35:01: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:35:16: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:43:10: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:45:40: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:46:02: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:46:22: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:46:33: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:47:37: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:48:21: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:48:49: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:49:28: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:49:37: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:49:46: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:52:00: 	jwt expired
+[ERROR]: Nov-03-2023 05:52:11: 	jwt expired
+[ERROR]: Nov-03-2023 05:53:00: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:54:27: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:54:27: 	WHERE parameter "subcity" has invalid "undefined" value
+[ERROR]: Nov-03-2023 05:54:56: 	jwt expired
+[ERROR]: Nov-03-2023 05:56:22: 	jwt expired
+[ERROR]: Nov-03-2023 05:56:58: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 05:56:58: 	WHERE parameter "subcity" has invalid "undefined" value
+[ERROR]: Nov-03-2023 09:39:36: 	WHERE parameter "subcity" has invalid "undefined" value
+[ERROR]: Nov-03-2023 09:39:36: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 09:52:08: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 09:52:08: 	WHERE parameter "subcity" has invalid "undefined" value
+[ERROR]: Nov-03-2023 09:52:21: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 11:05:34: 	jwt expired
+[ERROR]: Nov-03-2023 11:06:26: 	jwt expired
+[ERROR]: Nov-03-2023 11:06:39: 	jwt expired
+[ERROR]: Nov-03-2023 11:09:39: 	Missing token
+[ERROR]: Nov-03-2023 11:09:55: 	Missing token
+[ERROR]: Nov-03-2023 11:22:07: 	invalid token
+[ERROR]: Nov-03-2023 11:22:16: 	invalid token
+[ERROR]: Nov-03-2023 11:22:24: 	invalid token
+[ERROR]: Nov-03-2023 11:27:40: 	WHERE parameter "subcity" has invalid "undefined" value
+[ERROR]: Nov-03-2023 11:28:12: 	WHERE parameter "subcity" has invalid "undefined" value
+[ERROR]: Nov-03-2023 11:28:50: 	WHERE parameter "furnishing_status" has invalid "undefined" value
+[ERROR]: Nov-03-2023 11:28:53: 	WHERE parameter "furnishing_status" has invalid "undefined" value
+[ERROR]: Nov-03-2023 11:28:56: 	WHERE parameter "furnishing_status" has invalid "undefined" value
+[ERROR]: Nov-03-2023 11:30:00: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 11:30:11: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 11:30:12: 	WHERE parameter "subcity" has invalid "undefined" value
+[ERROR]: Nov-03-2023 11:30:49: 	WHERE parameter "furnishing_status" has invalid "undefined" value
+[ERROR]: Nov-03-2023 11:31:14: 	WHERE parameter "market_status" has invalid "undefined" value
+[ERROR]: Nov-03-2023 11:31:56: 	WHERE parameter "house_type" has invalid "undefined" value
+[ERROR]: Nov-03-2023 11:35:10: 	jwt expired
+[ERROR]: Nov-03-2023 11:35:39: 	jwt expired
+[ERROR]: Nov-03-2023 11:35:55: 	jwt expired
+[ERROR]: Nov-03-2023 11:36:31: 	jwt expired
+[ERROR]: Nov-03-2023 11:39:13: 	jwt malformed
+[ERROR]: Nov-03-2023 11:44:25: 	jwt expired
+[ERROR]: Nov-03-2023 11:52:01: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 11:52:47: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 11:53:04: 	WHERE parameter "house_type" has invalid "undefined" value
+[ERROR]: Nov-03-2023 12:05:17: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 12:07:58: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 12:10:48: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 12:14:49: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 12:25:19: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 12:35:07: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 13:28:59: 	jwt malformed
+[ERROR]: Nov-03-2023 13:52:33: 	jwt malformed
+[ERROR]: Nov-03-2023 14:00:16: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 14:07:03: 	jwt malformed
+[ERROR]: Nov-03-2023 14:24:21: 	jwt malformed
+[ERROR]: Nov-03-2023 14:24:45: 	jwt malformed
+[ERROR]: Nov-03-2023 14:25:20: 	jwt malformed
+[ERROR]: Nov-03-2023 14:26:21: 	jwt malformed
+[ERROR]: Nov-03-2023 14:27:50: 	jwt malformed
+[ERROR]: Nov-03-2023 14:29:46: 	jwt malformed
+[ERROR]: Nov-03-2023 14:31:10: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 14:31:11: 	jwt malformed
+[ERROR]: Nov-03-2023 14:33:54: 	jwt malformed
+[ERROR]: Nov-03-2023 18:07:07: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 18:07:07: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 18:08:01: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 18:08:01: 	jwt malformed
+[ERROR]: Nov-03-2023 18:10:33: 	jwt malformed
+[ERROR]: Nov-03-2023 18:10:46: 	jwt malformed
+[ERROR]: Nov-03-2023 19:01:18: 	/ NOT_FOUND
+[ERROR]: Nov-03-2023 19:03:16: 	/ NOT_FOUND
+[ERROR]: Nov-04-2023 04:43:12: 	/ NOT_FOUND
+[ERROR]: Nov-04-2023 17:52:27: 	/ NOT_FOUND
+[ERROR]: Nov-04-2023 17:52:35: 	/ NOT_FOUND
+[ERROR]: Nov-04-2023 17:52:56: 	/ NOT_FOUND
+[ERROR]: Nov-04-2023 17:53:09: 	/ NOT_FOUND
+[ERROR]: Nov-04-2023 18:04:31: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 03:18:20: 	jwt malformed
+[ERROR]: Nov-05-2023 03:18:27: 	jwt malformed
+[ERROR]: Nov-05-2023 03:22:01: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 03:22:58: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 03:23:39: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 03:46:40: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 03:56:01: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 03:56:41: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 03:56:51: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 03:57:27: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 03:58:12: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 03:58:47: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 04:00:23: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 04:01:43: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 04:28:07: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 04:28:21: 	sequelize is not defined
+[ERROR]: Nov-05-2023 04:31:06: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 04:31:07: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 04:31:15: 	sequelize is not defined
+[ERROR]: Nov-05-2023 04:34:29: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 05:06:27: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 05:07:29: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 05:57:25: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 06:31:46: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 07:24:25: 	Invalid value { 'object HTMLDivElement': '' }
+[ERROR]: Nov-05-2023 07:24:58: 	Invalid value { 'object HTMLCollection': '' }
+[ERROR]: Nov-05-2023 07:42:19: 	Invalid value { 'object HTMLCollection': '' }
+[ERROR]: Nov-05-2023 07:43:26: 	Invalid value { 'object HTMLCollection': '' }
+[ERROR]: Nov-05-2023 08:48:54: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 08:48:58: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 08:49:59: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 09:16:27: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 09:16:29: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 09:29:40: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 09:29:42: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 09:31:41: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 10:00:43: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 10:32:36: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 10:32:53: 	price is not defined
+[ERROR]: Nov-05-2023 10:32:53: 	price is not defined
+[ERROR]: Nov-05-2023 10:37:06: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 10:37:17: 	filteredHouses is not defined
+[ERROR]: Nov-05-2023 10:39:57: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 10:42:31: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 10:49:35: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 10:50:57: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 10:57:50: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:03:27: 	/? NOT_FOUND
+[ERROR]: Nov-05-2023 11:03:47: 	/? NOT_FOUND
+[ERROR]: Nov-05-2023 11:04:01: 	/? NOT_FOUND
+[ERROR]: Nov-05-2023 11:04:19: 	/? NOT_FOUND
+[ERROR]: Nov-05-2023 11:04:28: 	/? NOT_FOUND
+[ERROR]: Nov-05-2023 11:04:35: 	/? NOT_FOUND
+[ERROR]: Nov-05-2023 11:05:59: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:23:52: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:24:09: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:25:08: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:26:12: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:26:25: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:26:54: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:27:24: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:27:41: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:28:13: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:28:27: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:28:37: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:28:43: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:28:49: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:29:05: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:29:14: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:30:42: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:31:49: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:32:11: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:33:36: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:33:54: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:34:17: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:34:41: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:34:48: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:34:54: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:35:03: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:35:05: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:36:20: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:36:43: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:37:08: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:38:18: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:39:52: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:40:04: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:40:41: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:42:52: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:43:06: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:43:39: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:43:57: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:44:22: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:44:54: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:45:07: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:45:10: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:45:27: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:45:28: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 11:46:21: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 13:29:36: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 13:31:34: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 13:36:16: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 13:37:04: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 13:37:59: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 13:39:05: 	/?search=heloo NOT_FOUND
+[ERROR]: Nov-05-2023 13:39:37: 	/?search=heloo NOT_FOUND
+[ERROR]: Nov-05-2023 13:41:46: 	/?search= NOT_FOUND
+[ERROR]: Nov-05-2023 13:42:07: 	/?search= NOT_FOUND
+[ERROR]: Nov-05-2023 13:44:58: 	/?search=heloogg NOT_FOUND
+[ERROR]: Nov-05-2023 13:47:46: 	/?search=heloohhh NOT_FOUND
+[ERROR]: Nov-05-2023 13:49:54: 	/?search=hdjckdc NOT_FOUND
+[ERROR]: Nov-05-2023 13:50:15: 	/?search=hdjckdc NOT_FOUND
+[ERROR]: Nov-05-2023 13:53:19: 	/?search=lemi%20kura NOT_FOUND
+[ERROR]: Nov-05-2023 13:53:39: 	/?search=heloo NOT_FOUND
+[ERROR]: Nov-05-2023 13:54:38: 	/?search=heloo NOT_FOUND
+[ERROR]: Nov-05-2023 13:55:25: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 13:55:47: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 13:56:01: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 13:56:26: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 13:57:48: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 13:58:34: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 13:59:28: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 14:07:23: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 14:40:35: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 14:43:15: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 14:49:34: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 14:49:43: 	searchQuery is not defined
+[ERROR]: Nov-05-2023 14:53:45: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 14:54:14: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 14:55:02: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 14:56:20: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 14:59:28: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 15:07:46: 	jwt malformed
+[ERROR]: Nov-05-2023 15:08:14: 	jwt malformed
+[ERROR]: Nov-05-2023 15:08:53: 	jwt malformed
+[ERROR]: Nov-05-2023 15:09:25: 	jwt malformed
+[ERROR]: Nov-05-2023 15:09:39: 	jwt malformed
+[ERROR]: Nov-05-2023 16:26:57: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 16:27:08: 	Cannot read property 'apply' of undefined
+[ERROR]: Nov-05-2023 16:29:34: 	searchResults.add is not a function
+[ERROR]: Nov-05-2023 16:37:26: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 16:50:48: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 17:52:37: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 18:01:11: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 18:02:18: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 18:02:22: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 18:02:35: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 18:03:29: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 18:04:51: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 18:04:59: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 18:05:02: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 18:05:13: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 18:07:11: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 18:13:29: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 18:26:54: 	searchResults.map is not a function
+[ERROR]: Nov-05-2023 18:28:29: 	Unexpected token o in JSON at position 1
+[ERROR]: Nov-05-2023 18:31:21: 	parsedResults is not defined
+[ERROR]: Nov-05-2023 18:41:32: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 19:04:20: 	values is not defined
+[ERROR]: Nov-05-2023 19:06:01: 	values is not defined
+[ERROR]: Nov-05-2023 19:06:08: 	values is not defined
+[ERROR]: Nov-05-2023 19:06:49: 	searchCount is not defined
+[ERROR]: Nov-05-2023 19:47:28: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 20:26:32: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 20:26:43: 	/ NOT_FOUND
+[ERROR]: Nov-05-2023 20:26:48: 	/ NOT_FOUND
+[ERROR]: Nov-06-2023 17:29:50: 	/ NOT_FOUND
+[ERROR]: Nov-06-2023 18:21:01: 	/?houseId=5 NOT_FOUND
+[ERROR]: Nov-06-2023 18:21:09: 	/?houseId=5 NOT_FOUND
+[ERROR]: Nov-06-2023 18:21:13: 	/?houseId=5 NOT_FOUND
+[ERROR]: Nov-06-2023 18:21:47: 	/?houseId=5 NOT_FOUND
+[ERROR]: Nov-06-2023 18:27:12: 	/ NOT_FOUND
+[ERROR]: Nov-06-2023 18:34:54: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 12:46:57: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 14:07:22: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 15:44:01: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 16:04:33: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 16:27:20: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 17:40:42: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 18:23:04: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 18:35:44: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 18:36:02: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 18:36:07: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 18:36:56: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 18:56:09: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 18:56:13: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 18:56:26: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 18:57:13: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 18:58:33: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 18:58:58: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 18:59:20: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 19:00:28: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 19:34:08: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 19:35:18: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 19:37:32: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 19:40:44: 	/ NOT_FOUND
+[ERROR]: Nov-07-2023 19:41:29: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 04:01:55: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 04:32:59: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 04:41:19: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 04:42:14: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 04:47:18: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 04:48:37: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 04:53:01: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 04:53:33: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 04:54:16: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 04:55:16: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 04:55:45: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 04:56:17: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 05:01:35: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 05:03:08: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 05:03:56: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 05:05:45: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 05:05:56: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 05:12:04: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 05:13:01: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 17:41:40: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 17:57:13: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 18:06:12: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 18:06:22: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 18:10:27: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 18:11:51: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 18:13:26: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 18:21:55: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 18:26:48: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 19:07:00: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 19:12:33: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 19:22:30: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 19:23:10: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 19:33:04: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 20:03:15: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 20:03:29: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 20:39:12: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 20:41:58: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 20:51:54: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 20:52:03: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 20:52:09: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 20:52:15: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 20:58:29: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 21:02:25: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 21:03:00: 	/ NOT_FOUND
+[ERROR]: Nov-08-2023 21:04:54: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 06:18:40: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 06:24:43: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 07:05:39: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 07:07:37: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 07:08:13: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 07:11:03: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 07:16:39: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:38:18: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:38:53: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:41:40: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:42:29: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:42:37: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:45:36: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:45:43: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:46:05: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:46:25: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:46:37: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:46:54: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:47:03: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:47:34: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:48:17: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:48:25: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:48:42: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:49:02: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:49:19: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:49:55: 	/ NOT_FOUND
+[ERROR]: Nov-09-2023 09:51:46: 	/ NOT_FOUND
+[ERROR]: Nov-12-2023 16:23:12: 	notNull Violation: requestedHouse.minAreaSize cannot be null,
+notNull Violation: requestedHouse.maxAreaSize cannot be null
+[ERROR]: Nov-12-2023 16:23:37: 	notNull Violation: requestedHouse.minAreaSize cannot be null,
+notNull Violation: requestedHouse.maxAreaSize cannot be null
+[ERROR]: Nov-12-2023 16:25:29: 	notNull Violation: requestedHouse.minAreaSize cannot be null,
+notNull Violation: requestedHouse.maxAreaSize cannot be null
+[ERROR]: Nov-12-2023 16:25:55: 	notNull Violation: requestedHouse.minAreaSize cannot be null,
+notNull Violation: requestedHouse.maxAreaSize cannot be null
+[ERROR]: Nov-12-2023 20:15:41: 	jwt malformed
+[ERROR]: Nov-12-2023 20:16:00: 	jwt malformed
+[ERROR]: Nov-12-2023 20:19:41: 	jwt malformed
+[ERROR]: Nov-12-2023 20:19:49: 	jwt malformed
+[ERROR]: Nov-12-2023 20:21:39: 	jwt malformed
+[ERROR]: Nov-12-2023 20:21:54: 	jwt malformed
+[ERROR]: Nov-12-2023 20:25:08: 	jwt malformed
+[ERROR]: Nov-12-2023 20:41:07: 	jwt malformed
+[ERROR]: Nov-12-2023 20:49:40: 	/ NOT_FOUND
+[ERROR]: Nov-12-2023 21:20:51: 	jwt malformed
+[ERROR]: Nov-12-2023 21:21:40: 	Wrong password
+[ERROR]: Nov-13-2023 13:17:37: 	jwt expired
+[ERROR]: Nov-13-2023 13:17:53: 	jwt expired
+[ERROR]: Nov-14-2023 05:53:34: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 05:53:37: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 05:53:46: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 05:53:47: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 08:09:32: 	jwt malformed
+[ERROR]: Nov-14-2023 08:11:58: 	jwt malformed
+[ERROR]: Nov-14-2023 08:12:42: 	jwt malformed
+[ERROR]: Nov-14-2023 08:13:56: 	jwt malformed
+[ERROR]: Nov-14-2023 08:13:56: 	jwt malformed
+[ERROR]: Nov-14-2023 08:14:18: 	jwt malformed
+[ERROR]: Nov-14-2023 08:17:14: 	jwt malformed
+[ERROR]: Nov-14-2023 08:18:46: 	jwt malformed
+[ERROR]: Nov-14-2023 08:21:12: 	jwt malformed
+[ERROR]: Nov-14-2023 08:21:26: 	jwt expired
+[ERROR]: Nov-14-2023 08:23:10: 	jwt expired
+[ERROR]: Nov-14-2023 17:55:53: 	jwt malformed
+[ERROR]: Nov-14-2023 17:56:53: 	jwt malformed
+[ERROR]: Nov-14-2023 17:57:09: 	jwt malformed
+[ERROR]: Nov-14-2023 17:57:41: 	jwt malformed
+[ERROR]: Nov-14-2023 17:58:10: 	Auth header is missing
+[ERROR]: Nov-14-2023 17:58:24: 	jwt expired
+[ERROR]: Nov-14-2023 18:04:49: 	jwt malformed
+[ERROR]: Nov-14-2023 18:05:02: 	jwt malformed
+[ERROR]: Nov-14-2023 18:06:24: 	jwt malformed
+[ERROR]: Nov-14-2023 18:14:07: 	jwt malformed
+[ERROR]: Nov-14-2023 18:15:08: 	jwt malformed
+[ERROR]: Nov-14-2023 18:15:12: 	jwt malformed
+[ERROR]: Nov-14-2023 18:16:06: 	jwt malformed
+[ERROR]: Nov-14-2023 18:18:41: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 18:20:42: 	jwt malformed
+[ERROR]: Nov-14-2023 18:28:39: 	Auth header is missing
+[ERROR]: Nov-14-2023 18:31:49: 	jwt malformed
+[ERROR]: Nov-14-2023 18:36:38: 	jwt malformed
+[ERROR]: Nov-14-2023 18:36:51: 	jwt malformed
+[ERROR]: Nov-14-2023 20:09:15: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 20:09:37: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 20:10:46: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 20:10:53: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 20:10:54: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 20:10:55: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 20:10:57: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 20:11:45: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 20:13:37: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 20:13:41: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 20:14:09: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 20:15:48: 	/ NOT_FOUND
+[ERROR]: Nov-14-2023 20:17:03: 	/ NOT_FOUND
+[ERROR]: Nov-15-2023 05:17:46: 	jwt expired
+[ERROR]: Nov-16-2023 02:23:17: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 02:32:37: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 02:32:38: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 02:33:18: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 02:33:18: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 02:33:26: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 02:33:26: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 04:11:08: 	http://uplo.ad?v=1&ip=109.70.148.58&port=4001 NOT_FOUND
+[ERROR]: Nov-16-2023 05:41:47: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 05:41:56: 	Wrong password
+[ERROR]: Nov-16-2023 05:44:23: 	Wrong password
+[ERROR]: Nov-16-2023 05:44:42: 	Wrong password
+[ERROR]: Nov-16-2023 05:44:48: 	Wrong password
+[ERROR]: Nov-16-2023 05:47:34: 	Wrong password
+[ERROR]: Nov-16-2023 05:59:29: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 06:00:32: 	Wrong password
+[ERROR]: Nov-16-2023 06:01:13: 	Wrong password
+[ERROR]: Nov-16-2023 08:34:43: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 08:49:27: 	User not found
+[ERROR]: Nov-16-2023 08:49:40: 	Wrong password
+[ERROR]: Nov-16-2023 09:37:37: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 14:39:31: 	http://uplo.ad?v=1&ip=81.19.215.90&port=4001 NOT_FOUND
+[ERROR]: Nov-16-2023 19:19:14: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 19:19:40: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 19:19:45: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 19:25:11: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 20:44:56: 	Wrong password
+[ERROR]: Nov-16-2023 20:45:00: 	Wrong password
+[ERROR]: Nov-16-2023 21:06:45: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 21:07:08: 	/ NOT_FOUND
+[ERROR]: Nov-16-2023 21:07:11: 	/ NOT_FOUND
+[ERROR]: Nov-17-2023 06:04:06: 	User not found
+[ERROR]: Nov-17-2023 14:32:46: 	/ NOT_FOUND
+[ERROR]: Nov-17-2023 14:32:56: 	/ NOT_FOUND
+[ERROR]: Nov-17-2023 14:33:11: 	/ NOT_FOUND
+[ERROR]: Nov-17-2023 14:33:12: 	/ NOT_FOUND
+[ERROR]: Nov-17-2023 14:33:21: 	/ NOT_FOUND
+[ERROR]: Nov-17-2023 17:13:14: 	Wrong password
+[ERROR]: Nov-17-2023 18:16:53: 	Wrong password
