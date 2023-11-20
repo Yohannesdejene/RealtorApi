@@ -4,5 +4,4 @@
 .env.production.local
 .env.local
 node_modules
-configs
 utils/token.js

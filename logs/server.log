@@ -2525,3 +2525,4 @@ notNull Violation: requestedHouse.maxAreaSize cannot be null
 [ERROR]: Nov-19-2023 12:00:05: 	/?offset=1 NOT_FOUND
 [ERROR]: Nov-19-2023 12:00:31: 	/?offset=1&realestateType=ayat NOT_FOUND
 [INFO]: Nov-20-2023 03:41:47: 	Server running on porrt 4001
+[INFO]: Nov-20-2023 04:08:45: 	Server running on porrt 4001
