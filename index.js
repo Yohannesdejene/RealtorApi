@@ -35,7 +35,6 @@ app.use(
   cors({
     origin: [
       "https://realtoreth.com",
-      "http://realtoreth.com",
       "http://localhost:5173",
       "http://localhost:3000",
     ],
@@ -62,12 +61,10 @@ app.use("/realtor", express.static(__dirname + "/static_assets"));
 // app.use('/static_assets/ads_images', express.static('ads_images'));
 
 app.use("/realtor/welcome", (req, res) => {
-  res
-    .status(200)
-    .json({
-      message:
-        "Welcome! This is Realtor. Find your home next home straight from your phone",
-    });
+  res.status(200).json({
+    message:
+      "Welcome! This is Realtor. Find your home next home straight from your phone",
+  });
 });
 
 app.get("/realtor/unauth/houses", getUnauthHouses);
@@ -94,13 +91,14 @@ House.hasMany(HouseImageUrl, { constraints: true, onDelete: "CASCADE" });
 Admin.hasMany(AdImage, { constraints: true, onDelete: "CASCADE" });
 AdImage.belongsTo(Admin, { constraints: true, onDelete: "CASCADE" });
 
-sequelize
-  .sync({ alter: true })
-  .then((_) => {
-    app.listen(port, () => {
-      logger.log({ message: `Server running on porrt ${port}`, level: "info" });
-    });
-  })
-  .catch((e) => {
-    console.error(e);
-  });
+// sequelize
+//   .sync({ alter: true })
+//   .then((_) => {
+//     console.log("sysnked");
+//   })
+//   .catch((e) => {
+//     console.error("erre", e);
+//   });
+app.listen(port, () => {
+  logger.log({ message: `Server running on porrt ${port}`, level: "info" });
+});

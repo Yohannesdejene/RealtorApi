@@ -1581,3 +1581,21 @@ notNull Violation: requestedHouse.maxAreaSize cannot be null
 [ERROR]: Nov-17-2023 14:33:21: 	/ NOT_FOUND
 [ERROR]: Nov-17-2023 17:13:14: 	Wrong password
 [ERROR]: Nov-17-2023 18:16:53: 	Wrong password
+[ERROR]: Nov-19-2023 09:40:20: 	/ NOT_FOUND
+[ERROR]: Nov-19-2023 09:40:51: 	/ NOT_FOUND
+[ERROR]: Nov-19-2023 09:41:48: 	/ NOT_FOUND
+[ERROR]: Nov-19-2023 09:41:51: 	/ NOT_FOUND
+[ERROR]: Nov-19-2023 09:43:07: 	Wrong password
+[ERROR]: Nov-19-2023 09:43:46: 	jwt expired
+[ERROR]: Nov-19-2023 09:46:06: 	House images of >4 are required
+[ERROR]: Nov-19-2023 10:14:29: 	/?offset=1 NOT_FOUND
+[ERROR]: Nov-19-2023 10:15:20: 	/?offset=1 NOT_FOUND
+[ERROR]: Nov-19-2023 10:16:02: 	/?offset=1 NOT_FOUND
+[ERROR]: Nov-19-2023 10:16:23: 	/?offset=1 NOT_FOUND
+[ERROR]: Nov-19-2023 10:16:48: 	/ NOT_FOUND
+[ERROR]: Nov-19-2023 10:17:11: 	/?offset=1 NOT_FOUND
+[ERROR]: Nov-19-2023 10:17:51: 	/?offset=1 NOT_FOUND
+[ERROR]: Nov-19-2023 10:18:46: 	realestateType is not defined
+[ERROR]: Nov-19-2023 11:59:56: 	/?offset=1 NOT_FOUND
+[ERROR]: Nov-19-2023 12:00:05: 	/?offset=1 NOT_FOUND
+[ERROR]: Nov-19-2023 12:00:31: 	/?offset=1&realestateType=ayat NOT_FOUND
