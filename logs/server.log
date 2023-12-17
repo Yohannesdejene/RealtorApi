@@ -2526,3 +2526,331 @@ notNull Violation: requestedHouse.maxAreaSize cannot be null
 [ERROR]: Nov-19-2023 12:00:31: 	/?offset=1&realestateType=ayat NOT_FOUND
 [INFO]: Nov-20-2023 03:41:47: 	Server running on porrt 4001
 [INFO]: Nov-20-2023 04:08:45: 	Server running on porrt 4001
+[INFO]: Nov-20-2023 08:21:06: 	Server running on porrt 4001
+[INFO]: Dec-08-2023 23:11:18: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 09:00:24: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 10:54:42: 	/?offset=1&realestateType=ayat&bedrooms=Any&bathrooms=Any&minPrice=Any&maxPrice=Any&minArea=Any&maxArea=Any&subcity=Any&furnishingType=0&serviceType=Any NOT_FOUND
+[ERROR]: Dec-10-2023 10:55:19: 	/ NOT_FOUND
+[ERROR]: Dec-10-2023 10:55:40: 	Access denied for user 'circlefr_mogesdev'@'102.218.50.192' (using password: YES)
+[INFO]: Dec-10-2023 10:57:57: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 10:58:20: 	Access denied for user 'root'@'102.218.50.192' (using password: NO)
+[ERROR]: Dec-10-2023 14:27:10: 	Access denied for user 'root'@'102.218.50.163' (using password: NO)
+[ERROR]: Dec-10-2023 14:27:46: 	Access denied for user 'root'@'102.218.50.163' (using password: NO)
+[INFO]: Dec-10-2023 14:28:05: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 14:35:50: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 14:41:05: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 14:41:31: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 14:43:12: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 14:43:41: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 14:44:33: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 14:44:42: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 14:45:26: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 14:45:34: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 14:46:49: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 14:48:06: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 14:50:05: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 14:50:38: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 14:52:03: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 14:54:11: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 14:54:15: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 14:56:41: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 14:56:48: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 14:57:49: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 14:57:50: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 15:12:32: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 15:12:53: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 15:13:40: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 15:14:11: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 15:16:01: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 15:16:23: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 15:17:14: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 15:18:27: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 15:18:39: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 15:19:07: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 15:20:02: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 15:29:38: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 15:29:43: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 15:30:22: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 15:30:28: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 15:30:47: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 15:30:52: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 15:31:08: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 15:34:05: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 15:35:55: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 15:36:12: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 15:37:16: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 15:37:50: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 15:39:21: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 15:40:15: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 15:41:30: 	/ NOT_FOUND
+[ERROR]: Dec-10-2023 15:41:53: 	/ NOT_FOUND
+[INFO]: Dec-10-2023 15:43:29: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 15:43:43: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 15:44:41: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 15:44:43: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 15:45:12: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 15:45:14: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 15:46:21: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 15:46:28: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 15:46:33: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 15:57:58: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 15:58:29: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[INFO]: Dec-10-2023 15:58:39: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 16:08:16: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 16:08:43: 	Server running on porrt 4001
+[INFO]: Dec-10-2023 16:09:23: 	Server running on porrt 4001
+[ERROR]: Dec-10-2023 16:55:30: 	/ NOT_FOUND
+[ERROR]: Dec-10-2023 16:55:55: 	/ NOT_FOUND
+[ERROR]: Dec-10-2023 17:57:54: 	House images of >4 are required
+[INFO]: Dec-10-2023 17:59:39: 	Server running on porrt 4001
+[INFO]: Dec-12-2023 07:32:49: 	Server running on porrt 4001
+[INFO]: Dec-12-2023 20:34:24: 	Server running on porrt 4001
+[INFO]: Dec-13-2023 19:30:09: 	Server running on porrt 4001
+[ERROR]: Dec-13-2023 19:51:34: 	connect ECONNREFUSED 127.0.0.1:3306
+[ERROR]: Dec-13-2023 19:51:34: 	connect ECONNREFUSED 127.0.0.1:3306
+[INFO]: Dec-13-2023 19:52:14: 	Server running on porrt 4001
+[ERROR]: Dec-13-2023 21:46:35: 	jwt expired
+[ERROR]: Dec-14-2023 07:19:38: 	connect ECONNREFUSED 127.0.0.1:3306
+[ERROR]: Dec-14-2023 08:08:32: 	Unexpected field
+[ERROR]: Dec-14-2023 08:10:06: 	Unexpected field
+[ERROR]: Dec-14-2023 08:11:06: 	Unexpected field
+[ERROR]: Dec-14-2023 08:11:45: 	Unexpected field
+[INFO]: Dec-14-2023 08:24:42: 	Server running on porrt 4001
+[ERROR]: Dec-14-2023 09:19:53: 	Operation timeout
+[INFO]: Dec-14-2023 20:10:12: 	Server running on porrt 4001
+[INFO]: Dec-14-2023 20:58:01: 	Server running on porrt 4001
+[INFO]: Dec-14-2023 20:59:17: 	Server running on porrt 4001
+[INFO]: Dec-16-2023 11:09:15: 	Server running on porrt 4001
+[ERROR]: Dec-17-2023 07:32:08: 	jwt expired
+[ERROR]: Dec-17-2023 13:46:17: 	jwt expired
+[ERROR]: Dec-17-2023 13:47:21: 	Wrong password
+[ERROR]: Dec-17-2023 15:27:23: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:23: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:27: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:30: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:31: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:34: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:34: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:37: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:37: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:25: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:30: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:30: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:32: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:33: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:33: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:33: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:33: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:36: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:36: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 17:52:31: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 17:52:31: 	/ NOT_FOUND

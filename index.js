@@ -1,5 +1,7 @@
 require("dotenv").config();
 // require('./configs/database').connect();
+// const bodyParser = require("body-parser");
+
 const cors = require("cors");
 const express = require("express");
 const multer = require("multer");
@@ -42,6 +44,11 @@ app.use(
     credentials: true,
   })
 );
+
+// app.use(bodyParser.json());
+
+// // Parse URL-encoded bodies for form submissions
+// app.use(bodyParser.urlencoded({ extended: true }));
 
 // Routes
 const authRoutes = require("./routes/auth.route");

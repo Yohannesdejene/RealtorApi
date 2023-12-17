@@ -4,11 +4,9 @@ const Sequelize = require("sequelize").Sequelize;
 //     { host: "localhost", dialect: "mysql" }
 // );
 
-const sequelize = new Sequelize(
-  "circlefr_realtor",
-  "circlefr_mogesdev",
-  "realtor@123",
-  { dialect: "mysql", host: "circlefreelance.com" }
-);
+const sequelize = new Sequelize("circlefr_realtor", "root", "", {
+  dialect: "mysql",
+  host: "localhost",
+});
 
 module.exports = sequelize;

@@ -1599,3 +1599,275 @@ notNull Violation: requestedHouse.maxAreaSize cannot be null
 [ERROR]: Nov-19-2023 11:59:56: 	/?offset=1 NOT_FOUND
 [ERROR]: Nov-19-2023 12:00:05: 	/?offset=1 NOT_FOUND
 [ERROR]: Nov-19-2023 12:00:31: 	/?offset=1&realestateType=ayat NOT_FOUND
+[ERROR]: Dec-10-2023 10:54:42: 	/?offset=1&realestateType=ayat&bedrooms=Any&bathrooms=Any&minPrice=Any&maxPrice=Any&minArea=Any&maxArea=Any&subcity=Any&furnishingType=0&serviceType=Any NOT_FOUND
+[ERROR]: Dec-10-2023 10:55:19: 	/ NOT_FOUND
+[ERROR]: Dec-10-2023 10:55:40: 	Access denied for user 'circlefr_mogesdev'@'102.218.50.192' (using password: YES)
+[ERROR]: Dec-10-2023 10:58:20: 	Access denied for user 'root'@'102.218.50.192' (using password: NO)
+[ERROR]: Dec-10-2023 14:27:10: 	Access denied for user 'root'@'102.218.50.163' (using password: NO)
+[ERROR]: Dec-10-2023 14:27:46: 	Access denied for user 'root'@'102.218.50.163' (using password: NO)
+[ERROR]: Dec-10-2023 14:41:31: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 14:44:42: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 14:45:34: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 14:50:05: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 14:50:38: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 14:52:03: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 14:54:15: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 14:56:48: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 14:57:50: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 15:29:43: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 15:30:28: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 15:30:52: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 15:34:05: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 15:36:12: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 15:41:30: 	/ NOT_FOUND
+[ERROR]: Dec-10-2023 15:41:53: 	/ NOT_FOUND
+[ERROR]: Dec-10-2023 15:43:43: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 15:44:43: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 15:45:14: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 15:46:33: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 15:58:29: 	notNull Violation: house.price cannot be null,
+notNull Violation: house.furnishingStatus cannot be null,
+notNull Violation: house.description cannot be null,
+notNull Violation: house.houseType cannot be null,
+notNull Violation: house.areaSize cannot be null,
+notNull Violation: house.city cannot be null,
+notNull Violation: house.subcity cannot be null,
+notNull Violation: house.addressName cannot be null,
+notNull Violation: house.bedrooms cannot be null,
+notNull Violation: house.agentName cannot be null,
+notNull Violation: house.agentNumber cannot be null,
+notNull Violation: house.marketStatus cannot be null
+[ERROR]: Dec-10-2023 16:55:30: 	/ NOT_FOUND
+[ERROR]: Dec-10-2023 16:55:55: 	/ NOT_FOUND
+[ERROR]: Dec-10-2023 17:57:54: 	House images of >4 are required
+[ERROR]: Dec-13-2023 19:51:34: 	connect ECONNREFUSED 127.0.0.1:3306
+[ERROR]: Dec-13-2023 19:51:34: 	connect ECONNREFUSED 127.0.0.1:3306
+[ERROR]: Dec-13-2023 21:46:35: 	jwt expired
+[ERROR]: Dec-14-2023 07:19:40: 	connect ECONNREFUSED 127.0.0.1:3306
+[ERROR]: Dec-14-2023 08:08:32: 	Unexpected field
+[ERROR]: Dec-14-2023 08:10:06: 	Unexpected field
+[ERROR]: Dec-14-2023 08:11:06: 	Unexpected field
+[ERROR]: Dec-14-2023 08:11:45: 	Unexpected field
+[ERROR]: Dec-14-2023 09:19:53: 	Operation timeout
+[ERROR]: Dec-17-2023 07:32:08: 	jwt expired
+[ERROR]: Dec-17-2023 13:46:17: 	jwt expired
+[ERROR]: Dec-17-2023 13:47:21: 	Wrong password
+[ERROR]: Dec-17-2023 15:27:23: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:23: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:27: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:30: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:31: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:34: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:34: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:37: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:27:37: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:25: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:30: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:30: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:32: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:33: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:33: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:33: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:33: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:36: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 15:43:36: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 17:52:31: 	/ NOT_FOUND
+[ERROR]: Dec-17-2023 17:52:31: 	/ NOT_FOUND

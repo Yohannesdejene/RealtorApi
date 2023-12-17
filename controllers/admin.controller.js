@@ -30,14 +30,17 @@ exports.createHouse = async (req, res, next) => {
     realestateType,
   } = req.body;
 
-  const admin = res.locals.admin;
+  console.log("body", req.body);
 
+  const admin = res.locals.admin;
+  console.log("admin", admin.id);
   const images = req.files["images"];
   const coverImage = req.files["coverImage"][0];
+  console.log("images", images[0].filename);
 
   console.log(`/houses_images/${coverImage.filename}`);
 
-  if (images.length < 2) {
+  if (images.length < 1) {
     next({ statusCode: 400, message: HOUSE_IMAGES_ARE_REQUIRED_ERR });
     return;
   }

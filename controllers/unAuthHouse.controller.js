@@ -5,7 +5,7 @@ const SavedHouse = require("../models/saved_homes.model");
 const RequestedHouse = require("../models/requested_house_type.model");
 
 //limit
-var limit = 10;
+var limit = 12;
 
 exports.getHouses = async (req, res, next) => {
   var { offset } = req.query;
@@ -16,7 +16,7 @@ exports.getHouses = async (req, res, next) => {
 
   try {
     const houses = await House.findAll({
-      where: { isActive: true },
+      // where: { isActive: true },
       offset: (offset - 1) * limit,
       limit: limit,
       order: [["createdAt", "DESC"]],
