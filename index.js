@@ -70,7 +70,7 @@ app.use("/realtor", express.static(__dirname + "/static_assets"));
 app.use("/realtor/welcome", (req, res) => {
   res.status(200).json({
     message:
-      "Welcome! This is Realtor. Find your home next home straight from your phone",
+      "Welcome! This is Realtor. Find your home next home straight from your phone, restarted",
   });
 });
 
