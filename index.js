@@ -67,6 +67,15 @@ app.use("/realtor", express.static(__dirname + "/static_assets"));
 // app.use('/realtor/static_assets/houses_images', express.static(__dirname + '/static_assets/houses_images'));
 // app.use('/static_assets/ads_images', express.static('ads_images'));
 
+HouseImageUrl.belongsTo(House, { constraints: true, onDelete: "CASCADE" });
+SavedHouse.belongsTo(User, { constraints: true, onDelete: "CASCADE" });
+SavedHouse.belongsTo(House, { constraints: true, onDelete: "CASCADE" });
+User.hasMany(SavedHouse, { constraints: true, onDelete: "CASCADE" });
+House.belongsTo(Admin, { constraints: true, onDelete: "CASCADE" });
+House.hasMany(HouseImageUrl, { constraints: true, onDelete: "CASCADE" });
+Admin.hasMany(AdImage, { constraints: true, onDelete: "CASCADE" });
+AdImage.belongsTo(Admin, { constraints: true, onDelete: "CASCADE" });
+
 app.use("/realtor/welcome", (req, res) => {
   res.status(200).json({
     message:
@@ -85,18 +94,71 @@ app.use("/realtor/unauth/house", unAuthHouse);
 
 app.use("/realtor/user", verifyToken, userRoutes);
 
+app.post("/enterImage", async (req, res) => {
+  try {
+    const records = [
+      {
+        imageUrl: "/houses_images/1702831441263+realtorimage+p2",
+        houseId: 55,
+      },
+      {
+        imageUrl: "/houses_images/1702831441125+realtorimage+p1",
+        houseId: 55,
+      },
+      {
+        imageUrl: "/houses_images/1702831441117+realtorimage+p2",
+        houseId: 55,
+      },
+      {
+        imageUrl: "/houses_images/1702831440663+realtorimage+p3",
+        houseId: 55,
+      },
+
+      {
+        imageUrl: "/houses_images/1702831439874+realtorimage+p4",
+        houseId: 55,
+      },
+      // {
+      //   imageUrl: "/houses_images/1702531706549+realtorimage+jjj5",
+      //   houseId: 51,
+      // },
+      // {
+      //   imageUrl: "/houses_images/1702530725875+realtorimage+on11",
+      //   houseId: 49,
+      // },
+      // {
+      //   imageUrl: "/houses_images/1702500643278+realtorimage+1221",
+      //   houseId: 46,
+      // },
+      // {
+      //   imageUrl: "/houses_images/1702500159719+realtorimage+21w",
+      //   houseId: 45,
+      // },
+      // {
+      //   imageUrl: "/houses_images/1702500159495+realtorimage+e22",
+      //   houseId: 45,
+      // },
+    ];
+    await HouseImageUrl.bulkCreate(records);
+    res.status(201).json({ message: "Bulk create complete", records });
+  } catch (error) {
+    res.status(500).json({ message: "Error creating bulk records", error });
+  }
+});
+
+app.get("/getImages", async (req, res) => {
+  const homes = await HouseImageUrl.findAll({
+    where: { houseId: 12 },
+  });
+  res.status(201).json({ homes });
+});
+app.get("/", (req, res) => {
+  res.send("sending....");
+});
+
 app.use("*", endpointNotFoundError);
 
 app.use(errorHandler);
-
-HouseImageUrl.belongsTo(House, { constraints: true, onDelete: "CASCADE" });
-SavedHouse.belongsTo(User, { constraints: true, onDelete: "CASCADE" });
-SavedHouse.belongsTo(House, { constraints: true, onDelete: "CASCADE" });
-User.hasMany(SavedHouse, { constraints: true, onDelete: "CASCADE" });
-House.belongsTo(Admin, { constraints: true, onDelete: "CASCADE" });
-House.hasMany(HouseImageUrl, { constraints: true, onDelete: "CASCADE" });
-Admin.hasMany(AdImage, { constraints: true, onDelete: "CASCADE" });
-AdImage.belongsTo(Admin, { constraints: true, onDelete: "CASCADE" });
 
 // sequelize
 //   .sync({ alter: true })

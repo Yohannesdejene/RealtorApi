@@ -30,17 +30,6 @@ exports.getHouses = async (req, res, next) => {
   }
 };
 
-exports.getHouseDetails = async (req, res, next) => {
-  const { houseId } = req.query;
-
-  try {
-    const house = await House.findByPk(houseId);
-    res.status(200).json({ house: house });
-  } catch (e) {
-    next(e);
-  }
-};
-
 exports.getHouseImages = async (req, res, next) => {
   const { houseId } = req.query;
 
@@ -257,6 +246,7 @@ exports.filteredHouses = async (req, res, next) => {
     next(e);
   }
 };
+
 exports.filteredHousesByRealestates = async (req, res, next) => {
   let {
     houseType,
@@ -397,6 +387,42 @@ exports.getUnauthHouses = async (req, res, next) => {
     });
 
     res.status(200).json({ houses: houses });
+  } catch (e) {
+    next(e);
+  }
+};
+exports.getHouseDetails = async (req, res, next) => {
+  const { houseId } = req.query;
+
+  try {
+    const house = await House.findByPk(houseId);
+    res.status(200).json({ house: house });
+  } catch (e) {
+    next(e);
+  }
+};
+exports.relatedSearch = async (req, res, next) => {
+  let { houseType, subcity } = req.query;
+  var offset = 1;
+  var limit = 8;
+  try {
+    const filteredHouses = await House.findAll({
+      where: {
+        [Op.and]: [
+          houseType && houseType !== "null" && houseType !== "undefiend"
+            ? { houseType: houseType }
+            : null,
+          subcity && subcity !== "null" && subcity !== "undefiend"
+            ? { subcity: subcity }
+            : null,
+        ].filter(Boolean),
+      },
+      offset: (offset - 1) * limit,
+      limit: limit,
+      order: [["createdAt", "DESC"]],
+    });
+
+    res.status(200).json({ houses: filteredHouses });
   } catch (e) {
     next(e);
   }

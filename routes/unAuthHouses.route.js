@@ -16,5 +16,9 @@ router.get(
   "/filterrealestate",
   unAuthHouseController.filteredHousesByRealestates
 );
+router.get(
+  "/relatedSearch",
+  unAuthHouseController.relatedSearch
+);
 
 module.exports = router;
