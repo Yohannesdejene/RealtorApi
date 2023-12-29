@@ -13,8 +13,8 @@ jobs:
         with:
           node-version: "16"
 
-      - name: Restart Server
-        run: pm2 restart index.js
+      # - name: Restart Server
+      #   run: pm2 restart index.js
 
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
