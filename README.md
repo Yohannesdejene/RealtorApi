@@ -37,8 +37,8 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Yohannesdejene/real-estate-backend.git
-    cd real-estate-backend
+    git clone https://github.com/Yohannesdejene/RealtorApi.git
+    cd RealtorApi
     ```
 
 2. **Install dependencies:**
@@ -52,7 +52,7 @@ Before you begin, ensure you have the following installed:
 1. **Create a MySQL database:**
 
     ```sql
-    CREATE DATABASE real_estate_app;
+    CREATE DATABASE circlefr_realtor;
     ```
 
 2. **Set up environment variables:**
@@ -64,7 +64,7 @@ Before you begin, ensure you have the following installed:
     DATABASE_HOST=localhost
     DATABASE_USER=root
     DATABASE_PASSWORD=<your-database-password>
-    DATABASE_NAME=real_estate_app
+    DATABASE_NAME=circlefr_realtor
     JWT_SECRET=<your-jwt-secret>
     ```
 
@@ -84,7 +84,7 @@ Before you begin, ensure you have the following installed:
     npm start
     ```
 
-The API will be available at [http://localhost:5000](http://localhost:5000).
+The API will be available at [http://localhost:5000](http://localhost:3000).
 
 ## Project Structure
 
